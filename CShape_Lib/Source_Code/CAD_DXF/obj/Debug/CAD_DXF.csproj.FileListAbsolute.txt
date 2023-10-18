@@ -1,0 +1,9 @@
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\CAD_DXF\obj\Debug\CAD_DXF.csprojResolveAssemblyReference.cache
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\CAD_DXF\bin\Debug\CAD_DXF.dll
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\CAD_DXF\bin\Debug\CAD_DXF.pdb
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\CAD_DXF\bin\Debug\TJJS_XML_File.dll
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\CAD_DXF\bin\Debug\Tool.dll
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\CAD_DXF\bin\Debug\TJJS_XML_File.pdb
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\CAD_DXF\bin\Debug\Tool.pdb
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\CAD_DXF\obj\Debug\CAD_DXF.dll
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\CAD_DXF\obj\Debug\CAD_DXF.pdb

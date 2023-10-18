@@ -1,0 +1,4 @@
+E:\1.工作專案\CShape_Lib\Source_Code\Database\bin\Release\Database.dll
+E:\1.工作專案\CShape_Lib\Source_Code\Database\bin\Release\Database.pdb
+E:\1.工作專案\CShape_Lib\Source_Code\Database\obj\Release\Database.dll
+E:\1.工作專案\CShape_Lib\Source_Code\Database\obj\Release\Database.pdb

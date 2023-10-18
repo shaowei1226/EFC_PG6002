@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4E761D5F-91D6-44DC-B6C6-A905B3DED55E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EFC.Vision.Halcon</RootNamespace>
+    <AssemblyName>Find_NCC</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="halcondotnet">
+      <HintPath>C:\Program Files\MVTec\HALCON-11.0\bin\dotnet35\halcondotnet.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_Find_NCC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_Find_NCC.designer.cs">
+      <DependentUpon>TForm_Find_NCC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TFrame_Create_NCC_Param.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TFrame_Create_NCC_Param.designer.cs">
+      <DependentUpon>TFrame_Create_NCC_Param.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TFrame_Find_NCC_Param.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TFrame_Find_NCC_Param.designer.cs">
+      <DependentUpon>TFrame_Find_NCC_Param.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TFrame_Select_NCC_Model.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TFrame_Select_NCC_Model.designer.cs">
+      <DependentUpon>TFrame_Select_NCC_Model.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_Find_NCC.resx">
+      <DependentUpon>TForm_Find_NCC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TFrame_Create_NCC_Param.resx">
+      <DependentUpon>TFrame_Create_NCC_Param.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TFrame_Find_NCC_Param.resx">
+      <DependentUpon>TFrame_Find_NCC_Param.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TFrame_Select_NCC_Model.resx">
+      <DependentUpon>TFrame_Select_NCC_Model.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\CAD\CAD.csproj">
+      <Project>{4d135b48-de50-4b70-b1f1-aeebf4638e84}</Project>
+      <Name>CAD</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Ini_File\XML_File\XML_File.csproj">
+      <Project>{99c3016a-4460-4941-a016-3b2c012a17b3}</Project>
+      <Name>XML_File</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Tool\JJS_Tool\JJS_Tool.csproj">
+      <Project>{74b42d25-993f-4c51-87fc-0e28a61f8fab}</Project>
+      <Name>JJS_Tool</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Base_Vision\Base_Vision.csproj">
+      <Project>{79cb892b-6a0d-49ae-8014-90a0a5cf8d21}</Project>
+      <Name>Base_Vision</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magic_wand.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hard_drive_download.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_cross.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hard_drive_upload.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

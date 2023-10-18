@@ -1,0 +1,7 @@
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\TCP_IP_Handshake\TTCP_IP_Handshake\bin\Debug\TTCP_IP_Handshake.dll
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\TCP_IP_Handshake\TTCP_IP_Handshake\bin\Debug\TTCP_IP_Handshake.pdb
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\TCP_IP_Handshake\TTCP_IP_Handshake\bin\Debug\Tool.dll
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\TCP_IP_Handshake\TTCP_IP_Handshake\bin\Debug\Tool.pdb
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\TCP_IP_Handshake\TTCP_IP_Handshake\obj\Debug\TTCP_IP_Handshake.csprojResolveAssemblyReference.cache
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\TCP_IP_Handshake\TTCP_IP_Handshake\obj\Debug\TTCP_IP_Handshake.dll
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\TCP_IP_Handshake\TTCP_IP_Handshake\obj\Debug\TTCP_IP_Handshake.pdb

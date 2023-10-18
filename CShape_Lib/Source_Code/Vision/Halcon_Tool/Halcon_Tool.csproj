@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9012C695-4133-4B34-AF11-6DC39FA48BB3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EFC.Vision.Halcon</RootNamespace>
+    <AssemblyName>Halcon_Tool</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>發行\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="halcondotnetxl">
+      <HintPath>C:\Program Files\MVTec\HALCON-11.0\bin\dotnet35\halcondotnetxl.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Halcon_Tool.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Command_Manager.cs" />
+    <Compile Include="TForm_Input_CMD_Name.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_Input_CMD_Name.Designer.cs">
+      <DependentUpon>TForm_Input_CMD_Name.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_Input_Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_Input_Password.Designer.cs">
+      <DependentUpon>TForm_Input_Password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_Halcon_Tool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_Halcon_Tool.Designer.cs">
+      <DependentUpon>TForm_Halcon_Tool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_Inport_CMD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_Inport_CMD.Designer.cs">
+      <DependentUpon>TForm_Inport_CMD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_User_Define.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_User_Define.Designer.cs">
+      <DependentUpon>TForm_User_Define.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tool_Values.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TForm_Input_CMD_Name.resx">
+      <DependentUpon>TForm_Input_CMD_Name.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_Input_Password.resx">
+      <DependentUpon>TForm_Input_Password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_Halcon_Tool.resx">
+      <DependentUpon>TForm_Halcon_Tool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_Inport_CMD.resx">
+      <DependentUpon>TForm_Inport_CMD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_User_Define.resx">
+      <DependentUpon>TForm_User_Define.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\CAD\CAD.csproj">
+      <Project>{4d135b48-de50-4b70-b1f1-aeebf4638e84}</Project>
+      <Name>CAD</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Ini_File\XML_File\XML_File.csproj">
+      <Project>{99c3016a-4460-4941-a016-3b2c012a17b3}</Project>
+      <Name>XML_File</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Tool\JJS_Tool\JJS_Tool.csproj">
+      <Project>{74b42d25-993f-4c51-87fc-0e28a61f8fab}</Project>
+      <Name>JJS_Tool</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Base_Vision\Base_Vision.csproj">
+      <Project>{79cb892b-6a0d-49ae-8014-90a0a5cf8d21}</Project>
+      <Name>Base_Vision</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magic_wand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_cross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

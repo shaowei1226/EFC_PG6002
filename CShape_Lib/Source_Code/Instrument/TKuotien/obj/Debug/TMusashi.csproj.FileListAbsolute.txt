@@ -1,0 +1,17 @@
+E:\11.客服程式暫存\DP4002(2018-11-07)\CShape_Lib\Source_Code\Instrument\TMusashi\bin\Debug\Musashi.dll
+E:\11.客服程式暫存\DP4002(2018-11-07)\CShape_Lib\Source_Code\Instrument\TMusashi\bin\Debug\Musashi.pdb
+E:\11.客服程式暫存\DP4002(2018-11-07)\CShape_Lib\Source_Code\Instrument\TMusashi\bin\Debug\Tool.dll
+E:\11.客服程式暫存\DP4002(2018-11-07)\CShape_Lib\Source_Code\Instrument\TMusashi\bin\Debug\Tool.pdb
+E:\11.客服程式暫存\DP4002(2018-11-07)\CShape_Lib\Source_Code\Instrument\TMusashi\obj\Debug\TMusashi.csprojResolveAssemblyReference.cache
+E:\11.客服程式暫存\DP4002(2018-11-07)\CShape_Lib\Source_Code\Instrument\TMusashi\obj\Debug\EFC.Instrument.Musashi.Properties.Resources.resources
+E:\11.客服程式暫存\DP4002(2018-11-07)\CShape_Lib\Source_Code\Instrument\TMusashi\obj\Debug\TMusashi.csproj.GenerateResource.Cache
+E:\11.客服程式暫存\DP4002(2018-11-07)\CShape_Lib\Source_Code\Instrument\TMusashi\obj\Debug\Musashi.dll
+E:\11.客服程式暫存\DP4002(2018-11-07)\CShape_Lib\Source_Code\Instrument\TMusashi\obj\Debug\Musashi.pdb
+E:\Source\DP4002(2018-11-07)\CShape_Lib\Source_Code\Instrument\TMusashi\bin\Debug\Musashi.dll
+E:\Source\DP4002(2018-11-07)\CShape_Lib\Source_Code\Instrument\TMusashi\bin\Debug\Musashi.pdb
+E:\Source\DP4002(2018-11-07)\CShape_Lib\Source_Code\Instrument\TMusashi\bin\Debug\Tool.dll
+E:\Source\DP4002(2018-11-07)\CShape_Lib\Source_Code\Instrument\TMusashi\bin\Debug\Tool.pdb
+E:\Source\DP4002(2018-11-07)\CShape_Lib\Source_Code\Instrument\TMusashi\obj\Debug\EFC.Instrument.Musashi.Properties.Resources.resources
+E:\Source\DP4002(2018-11-07)\CShape_Lib\Source_Code\Instrument\TMusashi\obj\Debug\TMusashi.csproj.GenerateResource.Cache
+E:\Source\DP4002(2018-11-07)\CShape_Lib\Source_Code\Instrument\TMusashi\obj\Debug\Musashi.dll
+E:\Source\DP4002(2018-11-07)\CShape_Lib\Source_Code\Instrument\TMusashi\obj\Debug\Musashi.pdb

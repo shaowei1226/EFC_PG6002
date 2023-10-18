@@ -1,0 +1,36 @@
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\bin\Release\User_Manager.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\bin\Release\User_Manager.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\bin\Release\Reader.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\bin\Release\TJJS_XML_File.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\bin\Release\Tool.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\bin\Release\TJJS_XML_File.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\bin\Release\Reader.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\bin\Release\Tool.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Release\User_Manager.csprojResolveAssemblyReference.cache
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Release\EFC.User_Manager.Properties.Resources.resources
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Release\EFC.User_Manager.TForm_RFID_Login.resources
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Release\EFC.User_Manager.TForm_User_Login.resources
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Release\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Release\EFC.User_Manager.TForm_Change_Password.resources
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Release\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Release\User_Manager.csproj.GenerateResource.Cache
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Release\User_Manager.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Release\User_Manager.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Release\User_Manager.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Release\User_Manager.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Release\Reader.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Release\TJJS_XML_File.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Release\Tool.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Release\TJJS_XML_File.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Release\Reader.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Release\Tool.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Release\User_Manager.csprojResolveAssemblyReference.cache
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Release\EFC.User_Manager.Properties.Resources.resources
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Release\EFC.User_Manager.TForm_RFID_Login.resources
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Release\EFC.User_Manager.TForm_User_Login.resources
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Release\EFC.User_Manager.TForm_User_Table_Edit.resources
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Release\EFC.User_Manager.TForm_Change_Password.resources
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Release\EFC.User_Manager.TForm_Uset_Edit.resources
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Release\User_Manager.csproj.GenerateResource.Cache
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Release\User_Manager.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Release\User_Manager.pdb

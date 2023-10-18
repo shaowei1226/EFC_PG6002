@@ -1,0 +1,6 @@
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\VLP_Light\bin\Debug\VLP_Light.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\VLP_Light\bin\Debug\VLP_Light.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\VLP_Light\bin\Debug\Tool.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\VLP_Light\bin\Debug\Tool.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\VLP_Light\obj\Debug\VLP_Light.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\VLP_Light\obj\Debug\VLP_Light.pdb

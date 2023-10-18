@@ -1,0 +1,7 @@
+E:\CShape_Lib\Source_Code\Printer\CAB_Printer\obj\Debug\CAB_Printer.csprojResolveAssemblyReference.cache
+E:\CShape_Lib\Source_Code\Printer\CAB_Printer\bin\Debug\Printer.dll
+E:\CShape_Lib\Source_Code\Printer\CAB_Printer\bin\Debug\Printer.pdb
+E:\CShape_Lib\Source_Code\Printer\CAB_Printer\bin\Debug\Tool.dll
+E:\CShape_Lib\Source_Code\Printer\CAB_Printer\bin\Debug\Tool.pdb
+E:\CShape_Lib\Source_Code\Printer\CAB_Printer\obj\Debug\Printer.dll
+E:\CShape_Lib\Source_Code\Printer\CAB_Printer\obj\Debug\Printer.pdb

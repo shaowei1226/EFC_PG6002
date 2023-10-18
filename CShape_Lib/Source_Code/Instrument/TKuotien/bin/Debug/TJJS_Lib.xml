@@ -1,0 +1,302 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TJJS_Lib</name>
+    </assembly>
+    <members>
+        <member name="T:TJJS_LIB.JJS_DataType">
+            <summary>
+            TJJS_LIB的資料類型
+            </summary>
+        </member>
+        <member name="T:TJJS_LIB.TJJS_Lib">
+            <summary>
+            TJJS_LIB的類
+            </summary>
+        </member>
+        <member name="M:TJJS_LIB.TJJS_Lib.memcpy(System.Void*,System.Void*,System.Int32)">
+            <summary>
+            MemcpyE的底層
+            </summary>
+            <remarks>
+            </remarks>        
+        </member>
+        <member name="M:TJJS_LIB.TJJS_Lib.MemcpyE(System.Void*,System.Void*,System.Int32)">
+            <summary>
+            MemcpyE
+            </summary>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:TJJS_LIB.TJJS_Lib.IntToStr_A(System.Int32,TJJS_LIB.JJS_DataType,System.UInt32)">
+            <summary>
+            IntToStr_A
+            </summary>
+            <remarks>
+            <para>Content: 將十進制數值轉換為任意格式(二進制、八進制、十進制、十六進制)之字串。</para>
+            <para>Remark:  charNum=0時，字串前端不會自動補零，若charNum!=0時，可視字串長度於前端補零</para>
+            </remarks>
+        </member>
+        <member name="M:TJJS_LIB.TJJS_Lib.IntToTenStr(System.Int32,System.UInt32)">
+            <summary>
+            IntToTenStr
+            </summary>
+            <remarks>
+            <para>Content: 將十進制數值轉換為十進制之字串。</para>
+            <para>Remark:  charNum=0時，字串前端不會自動補零，若charNum!=0時，可視字串長度於前端補零</para>
+            </remarks>
+        </member>
+        <member name="M:TJJS_LIB.TJJS_Lib.IntToBinStr(System.Int32,System.UInt32)">
+            <summary>
+            IntToBinStr
+            </summary>
+            <remarks>
+            <para>Content: 將十進制數值轉換為二進制之字串。</para>
+            <para>Remark:  charNum=0時，字串前端不會自動補零，若charNum!=0時，可視字串長度於前端補零</para>
+            </remarks>
+        </member>
+        <member name="M:TJJS_LIB.TJJS_Lib.IntToEightStr(System.Int32,System.UInt32)">
+            <summary>
+            IntToEightStr
+            </summary>
+            <remarks>
+            <para>Content: 將十進制數值轉換為八進制之字串。</para>
+            <para>Remark:  charNum=0時，字串前端不會自動補零，若charNum!=0時，可視字串長度於前端補零</para>
+            </remarks>
+        </member>
+        <member name="M:TJJS_LIB.TJJS_Lib.IntToHexStr(System.Int32,System.UInt32)">
+            <summary>
+            IntToHexStr
+            </summary>
+            <remarks>
+            <para>Content: 將十進制數值轉換為十六進制之字串。</para>
+            <para>Remark:  charNum=0時，字串前端不會自動補零，若charNum!=0時，可視字串長度於前端補零</para>
+            </remarks>
+        </member>
+        <member name="M:TJJS_LIB.TJJS_Lib.StrToInt_A(System.String,TJJS_LIB.JJS_DataType)">
+            <summary>
+            StrToInt_A
+            </summary>
+            <remarks>
+            <para>Content: 將任意進制的字串轉為為十進制之數值。</para>
+            <para>Remark:  </para>
+            </remarks>
+        </member>
+        <member name="M:TJJS_LIB.TJJS_Lib.TenStrToInt(System.String)">
+            <summary>
+            TenStrToInt
+            </summary>
+            <remarks>
+            <para>Content: 將十進制的字串轉為為十進制之數值。</para>
+            <para>Remark:  </para>
+            </remarks>
+        </member>
+        <member name="M:TJJS_LIB.TJJS_Lib.BinStrToInt(System.String)">
+            <summary>
+            BinStrToInt
+            </summary>
+            <remarks>
+            <para>Content: 將二進制的字串轉為為十進制之數值。</para>
+            <para>Remark:  </para>
+            </remarks>
+        </member>
+        <member name="M:TJJS_LIB.TJJS_Lib.EightStrToInt(System.String)">
+            <summary>
+            BinStrToInt
+            </summary>
+            <remarks>
+            <para>Content: 將八進制的字串轉為為十進制之數值。</para>
+            <para>Remark:  </para>
+            </remarks>
+        </member>
+        <member name="M:TJJS_LIB.TJJS_Lib.HexStrToInt(System.String)">
+            <summary>
+            HexStrToInt
+            </summary>
+            <remarks>
+            <para>Content: 將十六進制的字串轉為為十進制之數值。</para>
+            <para>Remark:  </para>
+            </remarks>
+        </member>
+        <member name="M:TJJS_LIB.TJJS_Lib.Uint16ConvertInt16(System.UInt16)">
+            <summary>
+            Uint16ConvertInt16
+            </summary>
+            <param name="iData">Uint16數值之地址</param>
+            <returns>Return:型別轉換後之Int16之數值</returns>
+            <remarks>
+            <para>Content: 將UInt16數值轉為Int16數值。</para>
+            <para>Remark:  </para>
+            </remarks>
+        </member>
+        <member name="M:TJJS_LIB.TJJS_Lib.IntConvertUInt16(System.Int16)">
+            <summary>
+            IntConvertUInt16
+            </summary>
+            <param name="iData">UIt16數值之地址</param>
+            <returns>Return:型別轉換後之UInt16之數值</returns>
+            <remarks>
+            <para>Content: 將Int16數值轉為UInt16數值。</para>
+            <para>Remark:  </para>
+            </remarks>
+        </member>
+        <member name="M:TJJS_LIB.TJJS_Lib.Int16ConvertBool16(System.Int16*,System.Boolean*)">
+            <summary>
+            Int16ConvertBool16
+            </summary>
+            <param name="iData">int16數值之地址</param>
+            <param name="ptrStart">boolen之地址</param>
+            <remarks>
+            <para>Content: 將int16數值轉為連續之boolen。</para>
+            <para>Remark:  </para>
+            </remarks>
+        </member>
+        <member name="M:TJJS_LIB.TJJS_Lib.Uint16ConvertBool16(System.UInt16*,System.Boolean*)">
+            <summary>
+            Uint16ConvertBool16
+            </summary>
+            <param name="iData">UInt16數值之地址</param>
+            <param name="ptrStart">boolen之地址</param>
+            <remarks>
+            <para>Content: 將UInt16數值轉為連續之boolen。</para>
+            <para>Remark:  </para>
+            </remarks>
+        </member>
+        <member name="M:TJJS_LIB.TJJS_Lib.Bool16ConvertInt16(System.Int16*,System.Boolean*)">
+            <summary>
+            Bool16ConvertInt16
+            </summary>
+            <param name="iData">int16數值之地址</param>
+            <param name="ptrStart">boolen之地址</param>
+            <remarks>
+            <para>Content: 將連續之boolen轉為int16數值。</para>
+            <para>Remark:  </para>
+            </remarks>
+        </member>
+        <member name="T:TJJS_LIB.IniFiles">
+            <summary>
+            IniFiles的類
+            </summary>
+        </member>
+        <member name="M:TJJS_LIB.IniFiles.#ctor(System.String)">
+            <summary>
+            類的構造函數，傳遞INI文件名 
+            </summary>
+            <param name="AFileName">INI文件名 </param>
+        </member>
+        <member name="M:TJJS_LIB.IniFiles.WriteString(System.String,System.String,System.String)">
+            <summary>
+            寫入字串至指定副鍵中
+            </summary>
+            <param name="Section">主鍵</param>
+            <param name="Ident">副鍵</param>
+            <param name="Value">數值</param>
+        </member>
+        <member name="M:TJJS_LIB.IniFiles.ReadString(System.String,System.String,System.String)">
+            <summary>
+            讀取指定副鍵中的字串
+            </summary>
+            <param name="Section">主鍵</param>
+            <param name="Ident">副鍵</param>
+            <param name="Default">預設值</param>
+        </member>
+        <member name="M:TJJS_LIB.IniFiles.ReadInteger(System.String,System.String,System.Int32)">
+            <summary>
+            讀取指定副鍵中的整數
+            </summary>
+            <param name="Section">主鍵</param>
+            <param name="Ident">副鍵</param>
+            <param name="Default">預設值</param>
+        </member>
+        <member name="M:TJJS_LIB.IniFiles.WriteInteger(System.String,System.String,System.Int32)">
+            <summary>
+            寫入整數至指定副鍵中
+            </summary>
+            <param name="Section">主鍵</param>
+            <param name="Ident">副鍵</param>
+            <param name="Value">數值</param>
+        </member>
+        <member name="M:TJJS_LIB.IniFiles.ReadDouble(System.String,System.String,System.Double)">
+            <summary>
+            讀取指定副鍵中的浮點數
+            </summary>
+            <param name="Section">主鍵</param>
+            <param name="Ident">副鍵</param>
+            <param name="Default">預設值</param>
+        </member>
+        <member name="M:TJJS_LIB.IniFiles.WriteDouble(System.String,System.String,System.Double)">
+            <summary>
+            寫入浮點數至指定副鍵中
+            </summary>
+            <param name="Section">主鍵</param>
+            <param name="Ident">副鍵</param>
+            <param name="Value">數值</param>
+        </member>
+        <member name="M:TJJS_LIB.IniFiles.ReadBool(System.String,System.String,System.Boolean)">
+            <summary>
+            讀取指定副鍵中的布林
+            </summary>
+            <param name="Section">主鍵</param>
+            <param name="Ident">副鍵</param>
+            <param name="Default">預設值</param>
+        </member>
+        <member name="M:TJJS_LIB.IniFiles.WriteBool(System.String,System.String,System.Boolean)">
+            <summary>
+            寫入布林至指定副鍵中
+            </summary>
+            <param name="Section">主鍵</param>
+            <param name="Ident">副鍵</param>
+            <param name="Value">數值</param>
+        </member>
+        <member name="M:TJJS_LIB.IniFiles.ReadSection(System.String,System.Collections.Specialized.StringCollection)">
+            <summary>
+            從INI文件中，將指定的主鍵名稱中的所有Ident添加到列表中
+            </summary>
+        </member>
+        <member name="M:TJJS_LIB.IniFiles.GetStringsFromBuffer(System.Byte[],System.Int32,System.Collections.Specialized.StringCollection)">
+            <summary>
+            對Section進行解析
+            </summary>
+        </member>
+        <member name="M:TJJS_LIB.IniFiles.ReadSections(System.Collections.Specialized.StringCollection)">
+            <summary>
+            從INI文件中，讀取所有的Section的名稱
+            </summary>
+        </member>
+        <member name="M:TJJS_LIB.IniFiles.ReadSectionValues(System.String,System.Collections.Specialized.NameValueCollection)">
+            <summary>
+            讀取指定的Section的所有Value到列表中
+            </summary>
+        </member>
+        <member name="M:TJJS_LIB.IniFiles.EraseSection(System.String)">
+            <summary>
+            清除某一個Section
+            </summary>
+        </member>
+        <member name="M:TJJS_LIB.IniFiles.DeleteKey(System.String,System.String)">
+            <summary>
+            刪除某一個Section下的鍵
+            </summary>
+        </member>
+        <member name="M:TJJS_LIB.IniFiles.UpdateFile">
+            <summary>
+            更新INI文件
+            </summary>
+            <remarks>
+            Note:对于Win9X，来说需要实现UpdateFile方法将缓冲中的数据写入文件
+            在Win NT, 2000和XP上，都是直接写文件，没有缓冲，所以，无须实现UpdateFile
+            执行完对Ini文件的修改之后，应该调用本方法更新缓冲区。
+            </remarks>
+        </member>
+        <member name="M:TJJS_LIB.IniFiles.ValueExists(System.String,System.String)">
+            <summary>
+            檢查某一個Section下的某一個鍵值是否存在
+            </summary>
+        </member>
+        <member name="M:TJJS_LIB.IniFiles.Finalize">
+            <summary>
+            確保資源的釋放
+            </summary>
+        </member>
+    </members>
+</doc>

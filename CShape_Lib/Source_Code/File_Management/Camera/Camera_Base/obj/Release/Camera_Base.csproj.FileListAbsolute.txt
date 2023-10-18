@@ -1,0 +1,15 @@
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Release\Camera_Base.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Release\Camera_Base.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Release\Base_Vision.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Release\halcondotnetxl.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Release\Tool.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Release\TJJS_XML_File.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Release\JJS_CAD.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Release\Tool.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Release\Base_Vision.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Release\halcondotnetxl.xml
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Release\TJJS_XML_File.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Release\JJS_CAD.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Release\Camera_Base.csprojResolveAssemblyReference.cache
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Release\Camera_Base.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Release\Camera_Base.pdb

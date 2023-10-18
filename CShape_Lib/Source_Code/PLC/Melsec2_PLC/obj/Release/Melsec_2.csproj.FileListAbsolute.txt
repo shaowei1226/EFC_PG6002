@@ -1,0 +1,9 @@
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\PLC\Melsec2_PLC\bin\Release\TPLC_Connect.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\PLC\Melsec2_PLC\bin\Release\TPLC_Connect.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\PLC\Melsec2_PLC\bin\Release\Base_PLC.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\PLC\Melsec2_PLC\bin\Release\Tool.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\PLC\Melsec2_PLC\bin\Release\Tool.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\PLC\Melsec2_PLC\bin\Release\Base_PLC.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\PLC\Melsec2_PLC\obj\Release\Melsec_2.csprojResolveAssemblyReference.cache
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\PLC\Melsec2_PLC\obj\Release\TPLC_Connect.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\PLC\Melsec2_PLC\obj\Release\TPLC_Connect.pdb

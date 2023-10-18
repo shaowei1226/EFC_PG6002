@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{221211DF-24CF-4960-BC7C-98E1889A3B6E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Main</RootNamespace>
+    <AssemblyName>Main</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>發行\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>EFC-2 32x32.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="halcondotnetxl">
+      <HintPath>C:\Program Files\MVTec\HALCON-11.0\bin\dotnet35\halcondotnetxl.dll</HintPath>
+    </Reference>
+    <Reference Include="RCAPINet, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0487594b04a8fcc0, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\PG6002(2023-07-11)\PG6002\Epson_Robot\RCAPINet.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="TForm_Data_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_Data_View.Designer.cs">
+      <DependentUpon>TForm_Data_View.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_Environment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_Environment.Designer.cs">
+      <DependentUpon>TForm_Environment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_Information.Designer.cs">
+      <DependentUpon>TForm_Information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_Main.Designer.cs">
+      <DependentUpon>TForm_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TForm_Measure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_Measure.designer.cs">
+      <DependentUpon>TForm_Measure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_MS_Param.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_MS_Param.designer.cs">
+      <DependentUpon>TForm_MS_Param.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_MU_Select.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_MU_Select.Designer.cs">
+      <DependentUpon>TForm_MU_Select.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_Select_Path.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_Select_Path.designer.cs">
+      <DependentUpon>TForm_Select_Path.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_Select_Recipe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_Select_Recipe.designer.cs">
+      <DependentUpon>TForm_Select_Recipe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_Teaching.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_Teaching.Designer.cs">
+      <DependentUpon>TForm_Teaching.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_Tray_Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_Tray_Add.Designer.cs">
+      <DependentUpon>TForm_Tray_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TFrame_Display.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TFrame_Display.designer.cs">
+      <DependentUpon>TFrame_Display.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TPLC.cs" />
+    <Compile Include="TPLC_CMD_Thread.cs" />
+    <Compile Include="TPub.cs" />
+    <Compile Include="TRobot1_Program.cs" />
+    <EmbeddedResource Include="TForm_Data_View.resx">
+      <DependentUpon>TForm_Data_View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_Environment.resx">
+      <DependentUpon>TForm_Environment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_Information.resx">
+      <DependentUpon>TForm_Information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_Main.resx">
+      <DependentUpon>TForm_Main.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TForm_Measure.resx">
+      <DependentUpon>TForm_Measure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_MS_Param.resx">
+      <DependentUpon>TForm_MS_Param.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_MU_Select.resx">
+      <DependentUpon>TForm_MU_Select.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_Select_Path.resx">
+      <DependentUpon>TForm_Select_Path.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_Select_Recipe.resx">
+      <DependentUpon>TForm_Select_Recipe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_Teaching.resx">
+      <DependentUpon>TForm_Teaching.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_Tray_Add.resx">
+      <DependentUpon>TForm_Tray_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TFrame_Display.resx">
+      <DependentUpon>TFrame_Display.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="EFC-2 32x32.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\CShape_Lib\Source_Code\CAD\CAD.csproj">
+      <Project>{4d135b48-de50-4b70-b1f1-aeebf4638e84}</Project>
+      <Name>CAD</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CShape_Lib\Source_Code\Camera\Camera_Base\Camera_Base.csproj">
+      <Project>{1fd55cec-0ea7-4369-b44f-e863f363978f}</Project>
+      <Name>Camera_Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CShape_Lib\Source_Code\Camera\Camera_Sentech_V1.1\Camera_Sentech_V1.1.csproj">
+      <Project>{c022dac4-b422-452f-9824-962d18b599a5}</Project>
+      <Name>Camera_Sentech_V1.1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CShape_Lib\Source_Code\File_Management\File_Manager.csproj">
+      <Project>{81ea7b8e-78e5-4f7d-a4cb-4c5a0b661917}</Project>
+      <Name>File_Manager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CShape_Lib\Source_Code\Ini_File\XML_File\XML_File.csproj">
+      <Project>{99c3016a-4460-4941-a016-3b2c012a17b3}</Project>
+      <Name>XML_File</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CShape_Lib\Source_Code\Light\Light_Base\Light_Base.csproj">
+      <Project>{55bced32-39db-4562-9fdb-7b14b687824a}</Project>
+      <Name>Light_Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CShape_Lib\Source_Code\Light\Light_EFC\Light_EFC.csproj">
+      <Project>{c38e5065-c3a6-46eb-a2f9-1ae406973b0a}</Project>
+      <Name>Light_EFC</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CShape_Lib\Source_Code\PLC\Base_PLC\Base_PLC.csproj">
+      <Project>{23c43740-f031-429f-8d01-e9b6be85ede7}</Project>
+      <Name>Base_PLC</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CShape_Lib\Source_Code\PLC\Melsec2_PLC\Melsec_2.csproj">
+      <Project>{0f5e8e4d-da33-418a-92c1-158db53f9636}</Project>
+      <Name>Melsec_2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CShape_Lib\Source_Code\Reader\Reader.csproj">
+      <Project>{419d3c47-1fce-43b6-8009-22257efb4303}</Project>
+      <Name>Reader</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CShape_Lib\Source_Code\TCP_IP_Handshake\TTCP_IP_Handshake\TCP_Handshake.csproj">
+      <Project>{e7931a04-aab0-4b6a-8d70-d4dcfa1ac345}</Project>
+      <Name>TCP_Handshake</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CShape_Lib\Source_Code\Tool\JJS_Tool\JJS_Tool.csproj">
+      <Project>{74b42d25-993f-4c51-87fc-0e28a61f8fab}</Project>
+      <Name>JJS_Tool</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CShape_Lib\Source_Code\User_Management\User_Management\User_Manager.csproj">
+      <Project>{ecbbb25a-67b6-455f-9f40-8fcb7a36bc96}</Project>
+      <Name>User_Manager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CShape_Lib\Source_Code\Vision\Base_Vision\Base_Vision.csproj">
+      <Project>{79cb892b-6a0d-49ae-8014-90a0a5cf8d21}</Project>
+      <Name>Base_Vision</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CShape_Lib\Source_Code\Vision\Find_Model\Find_Model.csproj">
+      <Project>{93fb06f0-8508-4f1c-a5d1-5d24ca5ef5f5}</Project>
+      <Name>Find_Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CShape_Lib\Source_Code\Vision\Halcon_Tool\Halcon_Tool.csproj">
+      <Project>{9012c695-4133-4b34-af11-6dc39fa48bb3}</Project>
+      <Name>Halcon_Tool</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Epson_Robot\TEpson_Robot.csproj">
+      <Project>{db9f7623-d5a0-4fec-bc9c-266932397610}</Project>
+      <Name>TEpson_Robot</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Find_ACF_Check2\Find_ACF_Check2.csproj">
+      <Project>{1b1baf2b-4a26-4223-b729-0991cca62a60}</Project>
+      <Name>Find_ACF_Check2</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

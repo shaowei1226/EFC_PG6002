@@ -1,0 +1,1 @@
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\TCP_IP_Handshake\TTCP_IP_Handshake\obj\Release\TCP_Handshake.csprojResolveAssemblyReference.cache

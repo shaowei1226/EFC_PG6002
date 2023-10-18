@@ -1,0 +1,8 @@
+E:\PCB AOI\CShape_Lib\Source_Code\Light\COBRA_Light\bin\Debug\Light.dll
+E:\PCB AOI\CShape_Lib\Source_Code\Light\COBRA_Light\bin\Debug\Light.pdb
+E:\PCB AOI\CShape_Lib\Source_Code\Light\COBRA_Light\obj\Debug\Light.dll
+E:\PCB AOI\CShape_Lib\Source_Code\Light\COBRA_Light\obj\Debug\Light.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\COBRA_Light\bin\Debug\Light.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\COBRA_Light\bin\Debug\Light.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\COBRA_Light\obj\Debug\Light.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\COBRA_Light\obj\Debug\Light.pdb

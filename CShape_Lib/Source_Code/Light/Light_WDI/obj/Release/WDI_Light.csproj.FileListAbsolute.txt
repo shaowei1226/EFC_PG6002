@@ -1,0 +1,12 @@
+E:\1.工作專案\CShape_Lib\Source_Code\Light\WDI_Light\obj\Release\WDI_Light.csprojResolveAssemblyReference.cache
+E:\1.工作專案\CShape_Lib\Source_Code\Light\WDI_Light\obj\Release\WDI_Light.Properties.Resources.resources
+E:\1.工作專案\CShape_Lib\Source_Code\Light\WDI_Light\obj\Release\WDI_Light.csproj.GenerateResource.Cache
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Light\WDI_Light\bin\Release\WDI_Light.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Light\WDI_Light\bin\Release\WDI_Light.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Light\WDI_Light\bin\Release\Tool.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Light\WDI_Light\bin\Release\Tool.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Light\WDI_Light\obj\Release\WDI_Light.csprojResolveAssemblyReference.cache
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Light\WDI_Light\obj\Release\WDI_Light.Properties.Resources.resources
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Light\WDI_Light\obj\Release\WDI_Light.csproj.GenerateResource.Cache
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Light\WDI_Light\obj\Release\WDI_Light.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Light\WDI_Light\obj\Release\WDI_Light.pdb

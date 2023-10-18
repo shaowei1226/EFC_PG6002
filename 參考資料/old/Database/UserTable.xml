@@ -1,0 +1,86 @@
+<Root>
+  <Default>
+    <Count value="5">
+    </Count>
+  </Default>
+  <User1>
+    <ID value="0000-0001">
+    </ID>
+    <Name value="操作员">
+    </Name>
+    <Password value="">
+    </Password>
+    <Info value="">
+    </Info>
+    <Level value="0">
+    </Level>
+    <Type value="User">
+    </Type>
+    <Display value="True">
+    </Display>
+  </User1>
+  <User2>
+    <ID value="0000-0002">
+    </ID>
+    <Name value="工程师">
+    </Name>
+    <Password value="+tOgDtkysfU=">
+    </Password>
+    <Info value="">
+    </Info>
+    <Level value="1">
+    </Level>
+    <Type value="User">
+    </Type>
+    <Display value="True">
+    </Display>
+  </User2>
+  <User3>
+    <ID value="0000-0003">
+    </ID>
+    <Name value="管理者">
+    </Name>
+    <Password value="+tOgDtkysfU=">
+    </Password>
+    <Info value="">
+    </Info>
+    <Level value="2">
+    </Level>
+    <Type value="User">
+    </Type>
+    <Display value="True">
+    </Display>
+  </User3>
+  <User4>
+    <ID value="0000-0004">
+    </ID>
+    <Name value="制造商">
+    </Name>
+    <Password value="oNO5p9uxjQ4yqNp4anuZVQ==">
+    </Password>
+    <Info value="">
+    </Info>
+    <Level value="9">
+    </Level>
+    <Type value="User">
+    </Type>
+    <Display value="False">
+    </Display>
+  </User4>
+  <User5>
+    <ID value="0000-0005">
+    </ID>
+    <Name value="原厂">
+    </Name>
+    <Password value="oNO5p9uxjQ4yqNp4anuZVQ==">
+    </Password>
+    <Info value="">
+    </Info>
+    <Level value="9">
+    </Level>
+    <Type value="User">
+    </Type>
+    <Display value="False">
+    </Display>
+  </User5>
+</Root>

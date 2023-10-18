@@ -1,0 +1,21 @@
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Reader\bin\Release\Reader.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Reader\bin\Release\Reader.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Reader\bin\Release\Tool.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Reader\bin\Release\Tool.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Reader\obj\Release\Reader.csprojResolveAssemblyReference.cache
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Reader\obj\Release\Reader.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Reader\obj\Release\Reader.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Reader\bin\Release\Reader.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Reader\bin\Release\Reader.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Reader\bin\Release\Tool.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Reader\bin\Release\Tool.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Reader\obj\Release\Reader.csprojResolveAssemblyReference.cache
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Reader\obj\Release\Reader.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Reader\obj\Release\Reader.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Reader\bin\Release\Reader.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Reader\bin\Release\Reader.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Reader\bin\Release\Tool.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Reader\bin\Release\Tool.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Reader\obj\Release\Reader.csprojResolveAssemblyReference.cache
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Reader\obj\Release\Reader.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Reader\obj\Release\Reader.pdb

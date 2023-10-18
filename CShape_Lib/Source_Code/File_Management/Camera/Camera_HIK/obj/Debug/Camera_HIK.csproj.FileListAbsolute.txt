@@ -1,0 +1,2 @@
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Camera\Camera_HIK\obj\Debug\Camera_HIK.csprojResolveAssemblyReference.cache
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Camera\Camera_HIK\obj\Debug\THIK_CCD.pdb

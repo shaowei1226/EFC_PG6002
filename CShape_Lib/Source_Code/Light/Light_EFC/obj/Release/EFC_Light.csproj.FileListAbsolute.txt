@@ -1,0 +1,7 @@
+E:\CShape_Lib\Source_Code\Light\EFC_Light\bin\Release\TLight.dll
+E:\CShape_Lib\Source_Code\Light\EFC_Light\bin\Release\TLight.pdb
+E:\CShape_Lib\Source_Code\Light\EFC_Light\bin\Release\Tool.dll
+E:\CShape_Lib\Source_Code\Light\EFC_Light\bin\Release\Tool.pdb
+E:\CShape_Lib\Source_Code\Light\EFC_Light\obj\Release\EFC_Light.csprojResolveAssemblyReference.cache
+E:\CShape_Lib\Source_Code\Light\EFC_Light\obj\Release\TLight.dll
+E:\CShape_Lib\Source_Code\Light\EFC_Light\obj\Release\TLight.pdb

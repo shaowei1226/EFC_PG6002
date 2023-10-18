@@ -1,0 +1,10 @@
+E:\HIK_CCD\HIK_CCD\THIK_CCD\obj\Debug\THIK_CCD.csprojResolveAssemblyReference.cache
+E:\HIK_CCD\HIK_CCD\THIK_CCD\bin\Debug\THIK_CCD.dll
+E:\HIK_CCD\HIK_CCD\THIK_CCD\bin\Debug\THIK_CCD.pdb
+E:\HIK_CCD\HIK_CCD\THIK_CCD\bin\Debug\halcondotnet.dll
+E:\HIK_CCD\HIK_CCD\THIK_CCD\bin\Debug\JJS_Camera.dll
+E:\HIK_CCD\HIK_CCD\THIK_CCD\bin\Debug\MvCameraControl.Net.dll
+E:\HIK_CCD\HIK_CCD\THIK_CCD\bin\Debug\JJS_Camera.pdb
+E:\HIK_CCD\HIK_CCD\THIK_CCD\bin\Debug\halcondotnet.xml
+E:\HIK_CCD\HIK_CCD\THIK_CCD\obj\Debug\THIK_CCD.dll
+E:\HIK_CCD\HIK_CCD\THIK_CCD\obj\Debug\THIK_CCD.pdb

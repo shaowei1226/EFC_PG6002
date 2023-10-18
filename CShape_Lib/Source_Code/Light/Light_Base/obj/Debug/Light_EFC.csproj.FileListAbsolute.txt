@@ -1,0 +1,13 @@
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\EFC_Light\bin\Debug\EFC_Light.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\EFC_Light\bin\Debug\EFC_Light.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\EFC_Light\bin\Debug\Tool.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\EFC_Light\bin\Debug\Tool.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\EFC_Light\obj\Debug\EFC_Light.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\EFC_Light\obj\Debug\EFC_Light.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\Light_EFC\bin\Debug\Light_EFC.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\Light_EFC\bin\Debug\Light_EFC.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\Light_EFC\bin\Debug\Tool.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\Light_EFC\bin\Debug\Tool.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\Light_EFC\obj\Debug\Light_EFC.csprojResolveAssemblyReference.cache
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\Light_EFC\obj\Debug\Light_EFC.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\Light_EFC\obj\Debug\Light_EFC.pdb

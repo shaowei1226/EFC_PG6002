@@ -1,0 +1,14 @@
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\Light_COBRA\bin\Debug\Light_Cobra.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\Light_COBRA\bin\Debug\Light_Cobra.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\Light_COBRA\bin\Debug\Light_Base.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\Light_COBRA\bin\Debug\Light_Base.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\Light_COBRA\obj\Debug\Light_Cobra.csprojResolveAssemblyReference.cache
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\Light_COBRA\obj\Debug\Light_Cobra.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\Light_COBRA\obj\Debug\Light_Cobra.pdb
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Light\Light_COBRA\bin\Debug\Light_Cobra.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Light\Light_COBRA\bin\Debug\Light_Cobra.pdb
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Light\Light_COBRA\bin\Debug\Light_Base.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Light\Light_COBRA\bin\Debug\Light_Base.pdb
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Light\Light_COBRA\obj\Debug\Light_Cobra.csprojResolveAssemblyReference.cache
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Light\Light_COBRA\obj\Debug\Light_Cobra.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Light\Light_COBRA\obj\Debug\Light_Cobra.pdb

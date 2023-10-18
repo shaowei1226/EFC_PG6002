@@ -1,0 +1,442 @@
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.xml
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.xml
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.xml
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.xml
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.xml
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.xml
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.xml
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.xml
+D:\PC\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+D:\PC\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+D:\PC\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+D:\PC\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+D:\PC\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+D:\PC\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+D:\PC\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+D:\PC\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+D:\PC\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+D:\PC\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+D:\PC\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+D:\PC\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+D:\PC\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+D:\PC\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.xml
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.xml
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.xml
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+E:\測試專案\PC\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+E:\測試專案\PC\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+E:\測試專案\PC\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+E:\測試專案\PC\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+E:\測試專案\PC\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+E:\測試專案\PC\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+E:\測試專案\PC\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+E:\測試專案\PC\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+E:\測試專案\PC\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+E:\測試專案\PC\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.xml
+E:\測試專案\PC\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+E:\測試專案\PC\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+E:\測試專案\PC\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+E:\測試專案\PC\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+E:\測試專案\PC\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+E:\測試專案\PC\ZA2107\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+E:\測試專案\PC\ZA2107\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+E:\測試專案\PC\ZA2107\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+E:\測試專案\PC\ZA2107\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+E:\測試專案\PC\ZA2107\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+E:\測試專案\PC\ZA2107\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+E:\測試專案\PC\ZA2107\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+E:\測試專案\PC\ZA2107\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+E:\測試專案\PC\ZA2107\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+E:\測試專案\PC\ZA2107\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.xml
+E:\測試專案\PC\ZA2107\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+E:\測試專案\PC\ZA2107\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+E:\測試專案\PC\ZA2107\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+E:\測試專案\PC\ZA2107\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+E:\測試專案\PC\ZA2107\ZA2107(2021-11-15)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+D:\Users\jjs\Desktop\AH2002(2022-01-24)\1.PC\AH2002(2022-01-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+D:\Users\jjs\Desktop\AH2002(2022-01-24)\1.PC\AH2002(2022-01-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+D:\Users\jjs\Desktop\AH2002(2022-01-24)\1.PC\AH2002(2022-01-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+D:\Users\jjs\Desktop\AH2002(2022-01-24)\1.PC\AH2002(2022-01-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+D:\Users\jjs\Desktop\AH2002(2022-01-24)\1.PC\AH2002(2022-01-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+D:\Users\jjs\Desktop\AH2002(2022-01-24)\1.PC\AH2002(2022-01-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+D:\Users\jjs\Desktop\AH2002(2022-01-24)\1.PC\AH2002(2022-01-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+D:\Users\jjs\Desktop\AH2002(2022-01-24)\1.PC\AH2002(2022-01-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+D:\Users\jjs\Desktop\AH2002(2022-01-24)\1.PC\AH2002(2022-01-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+D:\Users\jjs\Desktop\AH2002(2022-01-24)\1.PC\AH2002(2022-01-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.xml
+D:\Users\jjs\Desktop\AH2002(2022-01-24)\1.PC\AH2002(2022-01-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+D:\Users\jjs\Desktop\AH2002(2022-01-24)\1.PC\AH2002(2022-01-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+D:\Users\jjs\Desktop\AH2002(2022-01-24)\1.PC\AH2002(2022-01-25)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+D:\Users\jjs\Desktop\AH2002(2022-01-24)\1.PC\AH2002(2022-01-25)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+D:\Users\jjs\Desktop\AH2002(2022-01-24)\1.PC\AH2002(2022-01-25)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+E:\測試專案\PC\FG4008\FG4008(2022-02-09)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+E:\測試專案\PC\FG4008\FG4008(2022-02-09)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+E:\測試專案\PC\FG4008\FG4008(2022-02-09)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+E:\測試專案\PC\FG4008\FG4008(2022-02-09)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+E:\測試專案\PC\FG4008\FG4008(2022-02-09)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+E:\測試專案\PC\FG4008\FG4008(2022-02-09)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+E:\測試專案\PC\FG4008\FG4008(2022-02-09)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+E:\測試專案\PC\FG4008\FG4008(2022-02-09)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+E:\測試專案\PC\FG4008\FG4008(2022-02-09)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+E:\測試專案\PC\FG4008\FG4008(2022-02-09)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.xml
+E:\測試專案\PC\FG4008\FG4008(2022-02-09)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+E:\測試專案\PC\FG4008\FG4008(2022-02-09)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+E:\測試專案\PC\FG4008\FG4008(2022-02-09)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+E:\測試專案\PC\FG4008\FG4008(2022-02-09)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+E:\測試專案\PC\FG4008\FG4008(2022-02-09)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+D:\PC\FG4008(2022-04-07)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+D:\PC\FG4008(2022-04-07)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+D:\PC\FG4008(2022-04-07)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+D:\PC\FG4008(2022-04-07)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+D:\PC\FG4008(2022-04-07)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+D:\PC\FG4008(2022-04-07)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+D:\PC\FG4008(2022-04-07)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+D:\PC\FG4008(2022-04-07)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+D:\PC\FG4008(2022-04-07)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+D:\PC\FG4008(2022-04-07)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+D:\PC\FG4008(2022-04-07)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+D:\PC\FG4008(2022-04-07)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+D:\PC\FG4008(2022-04-07)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+D:\PC\FG4008(2022-04-07)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+D:\PC\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+D:\PC\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+D:\PC\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+D:\PC\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+D:\PC\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+D:\PC\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+D:\PC\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+D:\PC\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+D:\PC\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+D:\PC\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+D:\PC\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+D:\PC\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+D:\PC\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+D:\PC\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.xml
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+D:\PC\FG4008_PC1(2022-04-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+D:\PC\FG4008_PC1(2022-04-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+D:\PC\FG4008_PC1(2022-04-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+D:\PC\FG4008_PC1(2022-04-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+D:\PC\FG4008_PC1(2022-04-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+D:\PC\FG4008_PC1(2022-04-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+D:\PC\FG4008_PC1(2022-04-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+D:\PC\FG4008_PC1(2022-04-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+D:\PC\FG4008_PC1(2022-04-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+D:\PC\FG4008_PC1(2022-04-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+D:\PC\FG4008_PC1(2022-04-15)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+D:\PC\FG4008_PC1(2022-04-15)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+D:\PC\FG4008_PC1(2022-04-15)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+D:\PC\FG4008_PC1(2022-04-15)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+D:\PC\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+D:\PC\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+D:\PC\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+D:\PC\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+D:\PC\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+D:\PC\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+D:\PC\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+D:\PC\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+D:\PC\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+D:\PC\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.xml
+D:\PC\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+D:\PC\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+D:\PC\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+D:\PC\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+D:\PC\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.xml
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+D:\PC\FG4008_PC1(2022-05-06)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+D:\PC\FG4008_PC1(2022-05-06)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+D:\PC\FG4008_PC1(2022-05-06)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+D:\PC\FG4008_PC1(2022-05-06)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+D:\PC\FG4008_PC1(2022-05-06)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+D:\PC\FG4008_PC1(2022-05-06)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+D:\PC\FG4008_PC1(2022-05-06)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+D:\PC\FG4008_PC1(2022-05-06)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+D:\PC\FG4008_PC1(2022-05-06)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+D:\PC\FG4008_PC1(2022-05-06)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.xml
+D:\PC\FG4008_PC1(2022-05-06)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+D:\PC\FG4008_PC1(2022-05-06)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+D:\PC\FG4008_PC1(2022-05-06)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+D:\PC\FG4008_PC1(2022-05-06)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+D:\PC\FG4008_PC1(2022-05-06)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+D:\PC\FG4008_PC1(2022-05-16)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+D:\PC\FG4008_PC1(2022-05-16)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+D:\PC\FG4008_PC1(2022-05-16)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+D:\PC\FG4008_PC1(2022-05-16)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+D:\PC\FG4008_PC1(2022-05-16)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+D:\PC\FG4008_PC1(2022-05-16)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+D:\PC\FG4008_PC1(2022-05-16)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+D:\PC\FG4008_PC1(2022-05-16)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+D:\PC\FG4008_PC1(2022-05-16)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+D:\PC\FG4008_PC1(2022-05-16)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.xml
+D:\PC\FG4008_PC1(2022-05-16)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+D:\PC\FG4008_PC1(2022-05-16)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+D:\PC\FG4008_PC1(2022-05-16)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+D:\PC\FG4008_PC1(2022-05-16)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+D:\PC\FG4008_PC1(2022-05-16)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+D:\PC\AO4008(2022-05-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+D:\PC\AO4008(2022-05-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+D:\PC\AO4008(2022-05-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+D:\PC\AO4008(2022-05-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+D:\PC\AO4008(2022-05-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+D:\PC\AO4008(2022-05-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+D:\PC\AO4008(2022-05-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+D:\PC\AO4008(2022-05-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+D:\PC\AO4008(2022-05-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+D:\PC\AO4008(2022-05-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.xml
+D:\PC\AO4008(2022-05-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+D:\PC\AO4008(2022-05-20)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+D:\PC\AO4008(2022-05-20)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+D:\PC\AO4008(2022-05-20)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+D:\PC\AO4008(2022-05-20)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+D:\PC\AO4008(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+D:\PC\AO4008(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+D:\PC\AO4008(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+D:\PC\AO4008(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+D:\PC\AO4008(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+D:\PC\AO4008(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+D:\PC\AO4008(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+D:\PC\AO4008(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+D:\PC\AO4008(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+D:\PC\AO4008(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.xml
+D:\PC\AO4008(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+D:\PC\AO4008(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+D:\PC\AO4008(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+D:\PC\AO4008(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+D:\PC\AO4008(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb
+D:\PC\ZA2215(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.dll
+D:\PC\ZA2215(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Camera_Base.pdb
+D:\PC\ZA2215(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.dll
+D:\PC\ZA2215(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\halcondotnetxl.dll
+D:\PC\ZA2215(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.dll
+D:\PC\ZA2215(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.dll
+D:\PC\ZA2215(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.dll
+D:\PC\ZA2215(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Tool.pdb
+D:\PC\ZA2215(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\Base_Vision.pdb
+D:\PC\ZA2215(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\TJJS_XML_File.pdb
+D:\PC\ZA2215(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\bin\Debug\JJS_CAD.pdb
+D:\PC\ZA2215(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.csprojResolveAssemblyReference.cache
+D:\PC\ZA2215(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.dll
+D:\PC\ZA2215(2022-05-25)\CShape_Lib\Source_Code\Camera\Camera_Base\obj\Debug\Camera_Base.pdb

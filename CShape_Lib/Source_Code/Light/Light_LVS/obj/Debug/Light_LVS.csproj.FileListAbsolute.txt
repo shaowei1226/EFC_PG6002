@@ -1,0 +1,9 @@
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\Light_LVS\bin\Debug\Light_LVS.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\Light_LVS\bin\Debug\Light_LVS.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\Light_LVS\bin\Debug\Light_Base.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\Light_LVS\bin\Debug\Tool.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\Light_LVS\bin\Debug\Tool.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\Light_LVS\bin\Debug\Light_Base.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\Light_LVS\obj\Debug\Light_LVS.csprojResolveAssemblyReference.cache
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\Light_LVS\obj\Debug\Light_LVS.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Light\Light_LVS\obj\Debug\Light_LVS.pdb

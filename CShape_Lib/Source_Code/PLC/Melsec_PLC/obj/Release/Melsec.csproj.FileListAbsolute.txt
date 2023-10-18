@@ -1,0 +1,25 @@
+E:\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Release\TPLC_Connect.dll
+E:\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Release\TPLC_Connect.pdb
+E:\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Release\Tool.dll
+E:\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Release\Tool.pdb
+E:\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Release\Melsec.csprojResolveAssemblyReference.cache
+E:\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Release\TPLC_Connect.dll
+E:\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Release\TPLC_Connect.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Release\TPLC_Connect.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Release\TPLC_Connect.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Release\Base_PLC.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Release\Tool.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Release\Tool.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Release\Base_PLC.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Release\Melsec.csprojResolveAssemblyReference.cache
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Release\TPLC_Connect.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Release\TPLC_Connect.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Release\TPLC_Connect.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Release\TPLC_Connect.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Release\Base_PLC.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Release\Tool.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Release\Tool.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Release\Base_PLC.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Release\Melsec.csprojResolveAssemblyReference.cache
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Release\TPLC_Connect.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Release\TPLC_Connect.pdb

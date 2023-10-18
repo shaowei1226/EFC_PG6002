@@ -1,0 +1,256 @@
+<Root>
+  <Default>
+    <Base>
+      <Recipe_Path value="E:\Produce\PG6002\">
+      </Recipe_Path>
+      <Database_Path value="E:\Database\PG6002\">
+      </Database_Path>
+      <Recipe_Name value="VCS_PCB1_20230309">
+      </Recipe_Name>
+      <Language value="中文">
+      </Language>
+      <Auto_Log_Out value="False">
+      </Auto_Log_Out>
+      <Auto_Log_Out_Time value="5">
+      </Auto_Log_Out_Time>
+      <Cal_White value="False">
+      </Cal_White>
+      <Image_Mult value="1">
+      </Image_Mult>
+    </Base>
+    <Log>
+      <Save_Sor_Image value="True">
+      </Save_Sor_Image>
+      <Save_OK_Image value="False">
+      </Save_OK_Image>
+      <Save_NG_Image value="True">
+      </Save_NG_Image>
+      <Auto_Delete_File value="True">
+      </Auto_Delete_File>
+      <Write_Log value="True">
+      </Write_Log>
+      <Save_Image_Count value="500">
+      </Save_Image_Count>
+      <Save_Image_Type value="BMP">
+      </Save_Image_Type>
+      <Days_Count value="10">
+      </Days_Count>
+    </Log>
+    <PLC>
+      <Host value="192.168.1.130">
+      </Host>
+      <Port value="5010">
+      </Port>
+      <COM_Port value="0">
+      </COM_Port>
+      <In_Start_Code value="D100">
+      </In_Start_Code>
+      <In_Count value="600">
+      </In_Count>
+      <Out_Start_Code value="D200">
+      </Out_Start_Code>
+      <Out_Count value="200">
+      </Out_Count>
+      <Recipe_Start_Code value="R30000">
+      </Recipe_Start_Code>
+      <Recipe_Count value="1000">
+      </Recipe_Count>
+      <MS_Param_Start_Code value="D800">
+      </MS_Param_Start_Code>
+      <MS_Param_Count value="100">
+      </MS_Param_Count>
+    </PLC>
+    <Light>
+      <EFC_Light_COM_Port value="1">
+      </EFC_Light_COM_Port>
+      <EFC_Light1_COM_Port value="1">
+      </EFC_Light1_COM_Port>
+      <EFC_Light2_COM_Port value="2">
+      </EFC_Light2_COM_Port>
+    </Light>
+    <CCD>
+      <CCD1>
+        <Name value="ACF_2">
+        </Name>
+        <Enabled value="True">
+        </Enabled>
+        <Pixel_X value="1024">
+        </Pixel_X>
+        <Pixel_Y value="1280">
+        </Pixel_Y>
+        <Pixel_Size_X value="0.0052983">
+        </Pixel_Size_X>
+        <Pixel_Size_Y value="0.0052983">
+        </Pixel_Size_Y>
+        <CCD_Name value="ACF_2">
+        </CCD_Name>
+      </CCD1>
+      <CCD2>
+        <Name value="ACF_1">
+        </Name>
+        <Enabled value="True">
+        </Enabled>
+        <Pixel_X value="1024">
+        </Pixel_X>
+        <Pixel_Y value="1280">
+        </Pixel_Y>
+        <Pixel_Size_X value="0.0052983">
+        </Pixel_Size_X>
+        <Pixel_Size_Y value="0.0052983">
+        </Pixel_Size_Y>
+        <CCD_Name value="ACF_1">
+        </CCD_Name>
+      </CCD2>
+      <CCD3>
+        <Name value="Pre1_L">
+        </Name>
+        <Enabled value="True">
+        </Enabled>
+        <Pixel_X value="2592">
+        </Pixel_X>
+        <Pixel_Y value="1944">
+        </Pixel_Y>
+        <Pixel_Size_X value="0.0011165">
+        </Pixel_Size_X>
+        <Pixel_Size_Y value="0.0011165">
+        </Pixel_Size_Y>
+        <CCD_Name value="Pre1_L">
+        </CCD_Name>
+      </CCD3>
+      <CCD4>
+        <Name value="Pre1_R">
+        </Name>
+        <Enabled value="True">
+        </Enabled>
+        <Pixel_X value="2592">
+        </Pixel_X>
+        <Pixel_Y value="1944">
+        </Pixel_Y>
+        <Pixel_Size_X value="0.0011165">
+        </Pixel_Size_X>
+        <Pixel_Size_Y value="0.0011165">
+        </Pixel_Size_Y>
+        <CCD_Name value="Pre1_R">
+        </CCD_Name>
+      </CCD4>
+      <CCD5>
+        <Name value="Pre2_L">
+        </Name>
+        <Enabled value="True">
+        </Enabled>
+        <Pixel_X value="2592">
+        </Pixel_X>
+        <Pixel_Y value="1944">
+        </Pixel_Y>
+        <Pixel_Size_X value="0.0011165">
+        </Pixel_Size_X>
+        <Pixel_Size_Y value="0.0011165">
+        </Pixel_Size_Y>
+        <CCD_Name value="Pre2_L">
+        </CCD_Name>
+      </CCD5>
+      <CCD6>
+        <Name value="Pre2_R">
+        </Name>
+        <CCD_Name value="Pre2_R">
+        </CCD_Name>
+        <Enabled value="True">
+        </Enabled>
+        <Pixel_X value="2592">
+        </Pixel_X>
+        <Pixel_Y value="1944">
+        </Pixel_Y>
+        <Pixel_Size_X value="0.0011165">
+        </Pixel_Size_X>
+        <Pixel_Size_Y value="0.0011165">
+        </Pixel_Size_Y>
+      </CCD6>
+      <CCD7>
+        <Name value="Main_L">
+        </Name>
+        <CCD_Name value="Main_L">
+        </CCD_Name>
+        <Enabled value="False">
+        </Enabled>
+        <Pixel_X value="1280">
+        </Pixel_X>
+        <Pixel_Y value="1024">
+        </Pixel_Y>
+        <Pixel_Size_X value="0.0053234">
+        </Pixel_Size_X>
+        <Pixel_Size_Y value="0.0053234">
+        </Pixel_Size_Y>
+      </CCD7>
+      <CCD8>
+        <Name value="Main_R">
+        </Name>
+        <CCD_Name value="Main_R">
+        </CCD_Name>
+        <Enabled value="True">
+        </Enabled>
+        <Pixel_X value="1280">
+        </Pixel_X>
+        <Pixel_Y value="1024">
+        </Pixel_Y>
+        <Pixel_Size_X value="0.0053234">
+        </Pixel_Size_X>
+        <Pixel_Size_Y value="0.0053234">
+        </Pixel_Size_Y>
+      </CCD8>
+      <CCD9>
+        <Name value="ACF1">
+        </Name>
+        <CCD_Name value="ACF1">
+        </CCD_Name>
+        <Enabled value="True">
+        </Enabled>
+        <Pixel_X value="2048">
+        </Pixel_X>
+        <Pixel_Y value="1088">
+        </Pixel_Y>
+        <Pixel_Size_X value="0.00554">
+        </Pixel_Size_X>
+        <Pixel_Size_Y value="0.00554">
+        </Pixel_Size_Y>
+      </CCD9>
+      <CCD10>
+        <Name value="ACF2">
+        </Name>
+        <CCD_Name value="ACF2">
+        </CCD_Name>
+        <Enabled value="True">
+        </Enabled>
+        <Pixel_X value="2048">
+        </Pixel_X>
+        <Pixel_Y value="1088">
+        </Pixel_Y>
+        <Pixel_Size_X value="0.00554">
+        </Pixel_Size_X>
+        <Pixel_Size_Y value="0.00554">
+        </Pixel_Size_Y>
+      </CCD10>
+    </CCD>
+    <PC2>
+      <Host value="192.168.200.66">
+      </Host>
+      <Port value="1001">
+      </Port>
+      <ACF1_Host value="192.168.200.66">
+      </ACF1_Host>
+      <ACF1_Port value="1234">
+      </ACF1_Port>
+      <ACF2_Host value="192.168.200.66">
+      </ACF2_Host>
+      <ACF2_Port value="5678">
+      </ACF2_Port>
+    </PC2>
+    <Robot1>
+      <Enabled value="True">
+      </Enabled>
+      <Name value="ACF2_E">
+      </Name>
+      <Project_Name value="C:\EpsonRC70\projects\PG6002_0703_Gohome\PG6002_0703_Gohome.sprj">
+      </Project_Name>
+    </Robot1>
+  </Default>
+</Root>

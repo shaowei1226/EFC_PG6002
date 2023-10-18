@@ -1,0 +1,15 @@
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Management.Properties.Resources.resources
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Management.TForm_Password.resources
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Management.TForm_User_Table_Edit.resources
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Management.TForm_User_Login.resources
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Management.TForm_Uset_Edit.resources
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Management.csproj.GenerateResource.Cache
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Management.dll
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Management.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Management.dll
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Management.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Management.csprojResolveAssemblyReference.cache
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb

@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{291C246D-7443-4536-909A-E942914EAAFD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EFC.Vision.Halcon</RootNamespace>
+    <AssemblyName>Align_Image</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="halcondotnetxl">
+      <HintPath>C:\Program Files\MVTec\HALCON-11.0\bin\dotnet35\halcondotnetxl.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_Align_Image_Point.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_Align_Image_Point.designer.cs">
+      <DependentUpon>TForm_Align_Image_Point.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_Align_Image_XYQ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_Align_Image_XYQ.designer.cs">
+      <DependentUpon>TForm_Align_Image_XYQ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_Align_Mothed4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_Align_Mothed4.designer.cs">
+      <DependentUpon>TForm_Align_Mothed4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_Align_Mothed5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_Align_Mothed5.designer.cs">
+      <DependentUpon>TForm_Align_Mothed5.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_Align_Image_Point.resx">
+      <DependentUpon>TForm_Align_Image_Point.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_Align_Image_XYQ.resx">
+      <DependentUpon>TForm_Align_Image_XYQ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_Align_Mothed4.resx">
+      <DependentUpon>TForm_Align_Mothed4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_Align_Mothed5.resx">
+      <DependentUpon>TForm_Align_Mothed5.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_cross.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hard_drive_download.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hard_drive_upload.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magic_wand.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\CAD\CAD.csproj">
+      <Project>{4d135b48-de50-4b70-b1f1-aeebf4638e84}</Project>
+      <Name>CAD</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Ini_File\XML_File\XML_File.csproj">
+      <Project>{99c3016a-4460-4941-a016-3b2c012a17b3}</Project>
+      <Name>XML_File</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Tool\JJS_Tool\JJS_Tool.csproj">
+      <Project>{74b42d25-993f-4c51-87fc-0e28a61f8fab}</Project>
+      <Name>JJS_Tool</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Base_Vision\Base_Vision.csproj">
+      <Project>{79cb892b-6a0d-49ae-8014-90a0a5cf8d21}</Project>
+      <Name>Base_Vision</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Find_Model\Find_Model.csproj">
+      <Project>{97b42cdb-2d61-4337-96f8-9604ad255a61}</Project>
+      <Name>Find_Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,6 @@
+C:\君偉\MI4001-0619\EFC_AOI\LS3181\bin\Release\LS3181.dll
+C:\君偉\MI4001-0619\EFC_AOI\LS3181\bin\Release\LS3181.pdb
+C:\君偉\MI4001-0619\EFC_AOI\LS3181\obj\Release\LS3181.TForm_LS3181.resources
+C:\君偉\MI4001-0619\EFC_AOI\LS3181\obj\Release\LS3181.csproj.GenerateResource.Cache
+C:\君偉\MI4001-0619\EFC_AOI\LS3181\obj\Release\LS3181.dll
+C:\君偉\MI4001-0619\EFC_AOI\LS3181\obj\Release\LS3181.pdb

@@ -1,0 +1,9 @@
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\File_Management\bin\Release\File_Manager.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\File_Management\bin\Release\File_Manager.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\File_Management\bin\Release\TJJS_XML_File.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\File_Management\bin\Release\Tool.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\File_Management\bin\Release\TJJS_XML_File.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\File_Management\bin\Release\Tool.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\File_Management\obj\Release\File_Manager.csprojResolveAssemblyReference.cache
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\File_Management\obj\Release\File_Manager.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\File_Management\obj\Release\File_Manager.pdb

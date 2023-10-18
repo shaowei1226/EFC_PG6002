@@ -1,0 +1,5 @@
+F:\惠州程式\6#\8.PC\1.EC6000F(2018-05-13)\TKDL_Socket\bin\Debug\TKDL_Socket.dll
+F:\惠州程式\6#\8.PC\1.EC6000F(2018-05-13)\TKDL_Socket\bin\Debug\TKDL_Socket.pdb
+F:\惠州程式\6#\8.PC\1.EC6000F(2018-05-13)\TKDL_Socket\obj\Debug\TKDL_Socket.csprojResolveAssemblyReference.cache
+F:\惠州程式\6#\8.PC\1.EC6000F(2018-05-13)\TKDL_Socket\obj\Debug\TKDL_Socket.dll
+F:\惠州程式\6#\8.PC\1.EC6000F(2018-05-13)\TKDL_Socket\obj\Debug\TKDL_Socket.pdb

@@ -1,0 +1,7 @@
+E:\CShape_Lib\Source_Code\JJS_Obj\TJJS_XML_File\obj\Debug\TJJS_XML_File.csprojResolveAssemblyReference.cache
+E:\CShape_Lib\Source_Code\JJS_Obj\TJJS_XML_File\bin\Debug\TJJS_XML_File.dll
+E:\CShape_Lib\Source_Code\JJS_Obj\TJJS_XML_File\bin\Debug\TJJS_XML_File.pdb
+E:\CShape_Lib\Source_Code\JJS_Obj\TJJS_XML_File\bin\Debug\JJS_Obj.dll
+E:\CShape_Lib\Source_Code\JJS_Obj\TJJS_XML_File\bin\Debug\JJS_Obj.pdb
+E:\CShape_Lib\Source_Code\JJS_Obj\TJJS_XML_File\obj\Debug\TJJS_XML_File.dll
+E:\CShape_Lib\Source_Code\JJS_Obj\TJJS_XML_File\obj\Debug\TJJS_XML_File.pdb

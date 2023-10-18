@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7AAED3BA-CE8A-4584-900F-A58ED77AC0EE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EFC.HMI</RootNamespace>
+    <AssemblyName>JJS_HMI</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="TForm_HMI_Alarm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_HMI_Alarm.Designer.cs">
+      <DependentUpon>TForm_HMI_Alarm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_HMI_ImageList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_HMI_ImageList.Designer.cs">
+      <DependentUpon>TForm_HMI_ImageList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_HMI_Message.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_HMI_Message.Designer.cs">
+      <DependentUpon>TForm_HMI_Message.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_Image_List_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_Image_List_Edit.Designer.cs">
+      <DependentUpon>TForm_Image_List_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TFrame_Status.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TFrame_Status.Designer.cs">
+      <DependentUpon>TFrame_Status.cs</DependentUpon>
+    </Compile>
+    <Compile Include="THMI_Alarm.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="THMI_Alarm.Designer.cs">
+      <DependentUpon>THMI_Alarm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="THMI_Message.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="THMI_Message.Designer.cs">
+      <DependentUpon>THMI_Message.cs</DependentUpon>
+    </Compile>
+    <Compile Include="THMI_Lamp.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="THMI_Lamp.Designer.cs">
+      <DependentUpon>THMI_Lamp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="THMI_Button.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="THMI_Button.Designer.cs">
+      <DependentUpon>THMI_Button.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="THMI_Edit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="THMI_Edit.Designer.cs">
+      <DependentUpon>THMI_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="THMI_ImageList.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="THMI_ImageList.Designer.cs">
+      <DependentUpon>THMI_ImageList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="THMI_PLC.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="THMI_PLC.Designer.cs">
+      <DependentUpon>THMI_PLC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_HMI_Lamp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_HMI_Lamp.Designer.cs">
+      <DependentUpon>TForm_HMI_Lamp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_HMI_Button.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_HMI_Button.Designer.cs">
+      <DependentUpon>TForm_HMI_Button.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_HMI_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_HMI_Edit.Designer.cs">
+      <DependentUpon>TForm_HMI_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_Image_List_Get.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_Image_List_Get.Designer.cs">
+      <DependentUpon>TForm_Image_List_Get.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TForm_Keybord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TForm_Keybord.designer.cs">
+      <DependentUpon>TForm_Keybord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="THMI.cs" />
+    <Compile Include="TFrame_ImageList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TFrame_ImageList.Designer.cs">
+      <DependentUpon>TFrame_ImageList.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="TForm_HMI_Alarm.resx">
+      <DependentUpon>TForm_HMI_Alarm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_HMI_ImageList.resx">
+      <DependentUpon>TForm_HMI_ImageList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_HMI_Message.resx">
+      <DependentUpon>TForm_HMI_Message.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_HMI_Lamp.resx">
+      <DependentUpon>TForm_HMI_Lamp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_HMI_Button.resx">
+      <DependentUpon>TForm_HMI_Button.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_HMI_Edit.resx">
+      <DependentUpon>TForm_HMI_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_Image_List_Edit.resx">
+      <DependentUpon>TForm_Image_List_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_Image_List_Get.resx">
+      <DependentUpon>TForm_Image_List_Get.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TForm_Keybord.resx">
+      <DependentUpon>TForm_Keybord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TFrame_ImageList.resx">
+      <DependentUpon>TFrame_ImageList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TFrame_Status.resx">
+      <DependentUpon>TFrame_Status.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PLC\Base_PLC\Base_PLC.csproj">
+      <Project>{23c43740-f031-429f-8d01-e9b6be85ede7}</Project>
+      <Name>Base_PLC</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PLC\Melsec_PLC\Melsec.csproj">
+      <Project>{0f5e8e4d-da33-418a-92c1-158db53f9636}</Project>
+      <Name>Melsec</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Tool\JJS_Tool\JJS_Tool.csproj">
+      <Project>{74b42d25-993f-4c51-87fc-0e28a61f8fab}</Project>
+      <Name>JJS_Tool</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

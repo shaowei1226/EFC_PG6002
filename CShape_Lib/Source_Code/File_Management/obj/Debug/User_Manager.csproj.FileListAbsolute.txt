@@ -1,0 +1,774 @@
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\JJS_專案\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\JJS_專案\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\JJS_專案\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\JJS_專案\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\JJS_專案\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\JJS_專案\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\JJS_專案\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\JJS_專案\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\JJS_專案\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\JJS_專案\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\JJS_專案\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\JJS_專案\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\JJS_專案\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\JJS_專案\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\JJS_專案\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\JJS_專案\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\JJS_專案\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\JJS_專案\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\MI4001_Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\MI4001_Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\MI4001_Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\MI4001_Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\MI4001_Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\MI4001_Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\MI4001_Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\MI4001_Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\MI4001_Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\MI4001_Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\MI4001_Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\MI4001_Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\MI4001_Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\MI4001_Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\MI4001_Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\MI4001_Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\MI4001_Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\MI4001_Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\MI4001-Test1\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\MI4001-Test1\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\MI4001-Test1\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\MI4001-Test1\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\MI4001-Test1\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\MI4001-Test1\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\MI4001-Test1\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\MI4001-Test1\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\MI4001-Test1\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\MI4001-Test1\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\MI4001-Test1\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\MI4001-Test1\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\MI4001-Test1\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\MI4001-Test1\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\MI4001-Test1\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\MI4001-Test1\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\MI4001-Test1\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\MI4001-Test1\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\MI4001-Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\MI4001-Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\MI4001-Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\MI4001-Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\MI4001-Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\MI4001-Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\MI4001-Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\MI4001-Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\MI4001-Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\MI4001-Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\MI4001-Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\MI4001-Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\MI4001-Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\MI4001-Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\MI4001-Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\MI4001-Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\MI4001-Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\MI4001-Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\MI4001-0606Test\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\MI4001-0606\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\MI4001-0606\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\MI4001-0606\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\MI4001-0606\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\MI4001-0606\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\MI4001-0606\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\MI4001-0606\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\MI4001-0606\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\MI4001-0606\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\MI4001-0606\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\MI4001-0606\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\MI4001-0606\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\MI4001-0606\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\MI4001-0606\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\MI4001-0606\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\MI4001-0606\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\MI4001-0606\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\MI4001-0606\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\MI4001-0608\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\MI4001-0608\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\MI4001-0608\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\MI4001-0608\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\MI4001-0608\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\MI4001-0608\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\MI4001-0608\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\MI4001-0608\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\MI4001-0608\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\MI4001-0608\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\MI4001-0608\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\MI4001-0608\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\MI4001-0608\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\MI4001-0608\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\MI4001-0608\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\MI4001-0608\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\MI4001-0608\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\MI4001-0608\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+C:\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+C:\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+C:\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+C:\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+C:\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+C:\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+C:\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+C:\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+C:\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+C:\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+C:\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+C:\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+C:\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+C:\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+C:\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+C:\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+C:\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+C:\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\PCB AOI\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\PCB AOI\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\PCB AOI\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\PCB AOI\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\PCB AOI\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\PCB AOI\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\PCB AOI\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\PCB AOI\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\PCB AOI\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\PCB AOI\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\PCB AOI\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\PCB AOI\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\PCB AOI\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\PCB AOI\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\PCB AOI\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\PCB AOI\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\PCB AOI\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\PCB AOI\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\測試專案\ZE3565(PC 2021-08-26)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\測試專案\ZE3565(PC 2021-08-26)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\測試專案\ZE3565(PC 2021-08-26)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\測試專案\ZE3565(PC 2021-08-26)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\測試專案\ZE3565(PC 2021-08-26)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\測試專案\ZE3565(PC 2021-08-26)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\測試專案\ZE3565(PC 2021-08-26)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\測試專案\ZE3565(PC 2021-08-26)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\測試專案\ZE3565(PC 2021-08-26)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\測試專案\ZE3565(PC 2021-08-26)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\測試專案\ZE3565(PC 2021-08-26)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\測試專案\ZE3565(PC 2021-08-26)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\測試專案\ZE3565(PC 2021-08-26)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\測試專案\ZE3565(PC 2021-08-26)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\測試專案\ZE3565(PC 2021-08-26)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\測試專案\ZE3565(PC 2021-08-26)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\測試專案\ZE3565(PC 2021-08-26)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\測試專案\ZE3565(PC 2021-08-26)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb
+E:\測試專案\PC\ZA2105(PC 2021-10-29)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.dll
+E:\測試專案\PC\ZA2105(PC 2021-10-29)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\User_Manager.pdb
+E:\測試專案\PC\ZA2105(PC 2021-10-29)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.dll
+E:\測試專案\PC\ZA2105(PC 2021-10-29)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.dll
+E:\測試專案\PC\ZA2105(PC 2021-10-29)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.dll
+E:\測試專案\PC\ZA2105(PC 2021-10-29)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\TJJS_XML_File.pdb
+E:\測試專案\PC\ZA2105(PC 2021-10-29)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Reader.pdb
+E:\測試專案\PC\ZA2105(PC 2021-10-29)\CShape_Lib\Source_Code\User_Management\User_Management\bin\Debug\Tool.pdb
+E:\測試專案\PC\ZA2105(PC 2021-10-29)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csprojResolveAssemblyReference.cache
+E:\測試專案\PC\ZA2105(PC 2021-10-29)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.Properties.Resources.resources
+E:\測試專案\PC\ZA2105(PC 2021-10-29)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_RFID_Login.resources
+E:\測試專案\PC\ZA2105(PC 2021-10-29)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Login.resources
+E:\測試專案\PC\ZA2105(PC 2021-10-29)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_User_Table_Edit.resources
+E:\測試專案\PC\ZA2105(PC 2021-10-29)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Change_Password.resources
+E:\測試專案\PC\ZA2105(PC 2021-10-29)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\EFC.User_Manager.TForm_Uset_Edit.resources
+E:\測試專案\PC\ZA2105(PC 2021-10-29)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.csproj.GenerateResource.Cache
+E:\測試專案\PC\ZA2105(PC 2021-10-29)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.dll
+E:\測試專案\PC\ZA2105(PC 2021-10-29)\CShape_Lib\Source_Code\User_Management\User_Management\obj\Debug\User_Manager.pdb

@@ -1,0 +1,7 @@
+E:\CShape_Lib\Source_Code\JJS_Obj\JJS_Obj\JJS_CAD\bin\Debug\JJS_CAD.dll
+E:\CShape_Lib\Source_Code\JJS_Obj\JJS_Obj\JJS_CAD\bin\Debug\JJS_CAD.pdb
+E:\CShape_Lib\Source_Code\JJS_Obj\JJS_Obj\JJS_CAD\bin\Debug\JJS_Obj.dll
+E:\CShape_Lib\Source_Code\JJS_Obj\JJS_Obj\JJS_CAD\bin\Debug\JJS_Obj.pdb
+E:\CShape_Lib\Source_Code\JJS_Obj\JJS_Obj\JJS_CAD\obj\Debug\JJS_CAD.csprojResolveAssemblyReference.cache
+E:\CShape_Lib\Source_Code\JJS_Obj\JJS_Obj\JJS_CAD\obj\Debug\JJS_CAD.dll
+E:\CShape_Lib\Source_Code\JJS_Obj\JJS_Obj\JJS_CAD\obj\Debug\JJS_CAD.pdb

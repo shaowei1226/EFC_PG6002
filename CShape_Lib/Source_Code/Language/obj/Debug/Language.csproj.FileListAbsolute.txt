@@ -1,0 +1,35 @@
+E:\JJS_專案\君偉\MI4001-0619\EFC_AOI\Language\bin\Debug\Language.dll
+E:\JJS_專案\君偉\MI4001-0619\EFC_AOI\Language\bin\Debug\Language.pdb
+E:\JJS_專案\君偉\MI4001-0619\EFC_AOI\Language\bin\Debug\Tool.dll
+E:\JJS_專案\君偉\MI4001-0619\EFC_AOI\Language\bin\Debug\Tool.pdb
+E:\JJS_專案\君偉\MI4001-0619\EFC_AOI\Language\obj\Debug\Language.dll
+E:\JJS_專案\君偉\MI4001-0619\EFC_AOI\Language\obj\Debug\Language.pdb
+E:\JJS_專案\君偉\MI4001-0619\EFC_AOI\Language\obj\Debug\Language.csprojResolveAssemblyReference.cache
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Language\bin\Debug\Language.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Language\bin\Debug\Language.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Language\bin\Debug\Tool.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Language\bin\Debug\Tool.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Language\obj\Debug\Language.csprojResolveAssemblyReference.cache
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Language\obj\Debug\Language.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Language\obj\Debug\Language.pdb
+E:\PCB AOI\CShape_Lib\Source_Code\Language\bin\Debug\Language.dll
+E:\PCB AOI\CShape_Lib\Source_Code\Language\bin\Debug\Language.pdb
+E:\PCB AOI\CShape_Lib\Source_Code\Language\bin\Debug\Tool.dll
+E:\PCB AOI\CShape_Lib\Source_Code\Language\bin\Debug\Tool.pdb
+E:\PCB AOI\CShape_Lib\Source_Code\Language\obj\Debug\Language.csprojResolveAssemblyReference.cache
+E:\PCB AOI\CShape_Lib\Source_Code\Language\obj\Debug\Language.dll
+E:\PCB AOI\CShape_Lib\Source_Code\Language\obj\Debug\Language.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Language\bin\Debug\Language.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Language\bin\Debug\Language.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Language\bin\Debug\Tool.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Language\bin\Debug\Tool.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Language\obj\Debug\Language.csprojResolveAssemblyReference.cache
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Language\obj\Debug\Language.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Language\obj\Debug\Language.pdb
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Language\bin\Debug\Language.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Language\bin\Debug\Language.pdb
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Language\bin\Debug\Tool.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Language\bin\Debug\Tool.pdb
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Language\obj\Debug\Language.csprojResolveAssemblyReference.cache
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Language\obj\Debug\Language.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\Language\obj\Debug\Language.pdb

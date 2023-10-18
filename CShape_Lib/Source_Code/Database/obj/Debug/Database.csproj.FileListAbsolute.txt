@@ -1,0 +1,12 @@
+E:\1.工作專案\CShape_Lib\Source_Code\Database\Database\bin\Debug\Database.dll
+E:\1.工作專案\CShape_Lib\Source_Code\Database\Database\bin\Debug\Database.pdb
+E:\1.工作專案\CShape_Lib\Source_Code\Database\Database\obj\Debug\Database.dll
+E:\1.工作專案\CShape_Lib\Source_Code\Database\Database\obj\Debug\Database.pdb
+E:\1.工作專案\CShape_Lib\Source_Code\Database\bin\Debug\Database.dll
+E:\1.工作專案\CShape_Lib\Source_Code\Database\bin\Debug\Database.pdb
+E:\1.工作專案\CShape_Lib\Source_Code\Database\obj\Debug\Database.dll
+E:\1.工作專案\CShape_Lib\Source_Code\Database\obj\Debug\Database.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Database\bin\Debug\Database.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Database\bin\Debug\Database.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Database\obj\Debug\Database.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Database\obj\Debug\Database.pdb

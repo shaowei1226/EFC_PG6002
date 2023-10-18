@@ -1,0 +1,7 @@
+E:\SH2001\SH2001\JJS_HMI\bin\Debug\JJS_HMI.dll
+E:\SH2001\SH2001\JJS_HMI\bin\Debug\JJS_HMI.pdb
+E:\SH2001\SH2001\JJS_HMI\bin\Debug\JJS_Obj.dll
+E:\SH2001\SH2001\JJS_HMI\bin\Debug\JJS_Obj.pdb
+E:\SH2001\SH2001\JJS_HMI\obj\Debug\JJS_HMI.csprojResolveAssemblyReference.cache
+E:\SH2001\SH2001\JJS_HMI\obj\Debug\JJS_HMI.dll
+E:\SH2001\SH2001\JJS_HMI\obj\Debug\JJS_HMI.pdb

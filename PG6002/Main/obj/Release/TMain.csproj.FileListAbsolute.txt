@@ -1,0 +1,16 @@
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\PG6002\Main\bin\Release\Main.exe.config
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\PG6002\Main\obj\Release\TMain.csprojResolveAssemblyReference.cache
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\PG6002\Main\obj\Release\Main.TForm_Data_View.resources
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\PG6002\Main\obj\Release\Main.TForm_Environment.resources
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\PG6002\Main\obj\Release\Main.TForm_Information.resources
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\PG6002\Main\obj\Release\Main.TForm_Main.resources
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\PG6002\Main\obj\Release\Main.Properties.Resources.resources
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\PG6002\Main\obj\Release\EFC.Measure.TForm_Measure.resources
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\PG6002\Main\obj\Release\Main.TForm_MS_Param.resources
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\PG6002\Main\obj\Release\Main.TForm_MU_Select.resources
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\PG6002\Main\obj\Release\Main.TForm_Select_Path.resources
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\PG6002\Main\obj\Release\Main.TForm_Select_Recipe.resources
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\PG6002\Main\obj\Release\Main.TForm_Teaching.resources
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\PG6002\Main\obj\Release\Main.TForm_Tray_Add.resources
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\PG6002\Main\obj\Release\Main.TFrame_Display.resources
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\PG6002\Main\obj\Release\TMain.csproj.GenerateResource.Cache

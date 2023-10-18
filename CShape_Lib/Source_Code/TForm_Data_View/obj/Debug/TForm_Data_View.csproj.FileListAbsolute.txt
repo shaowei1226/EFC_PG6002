@@ -1,0 +1,9 @@
+F:\惠州程式\6#\8.PC\1.EC6000F(2018-05-13)\TForm_Data_View\obj\Debug\TForm_Data_View.csprojResolveAssemblyReference.cache
+F:\惠州程式\6#\8.PC\1.EC6000F(2018-05-13)\TForm_Data_View\obj\Debug\TForm_Data_View.csproj.GenerateResource.Cache
+F:\惠州程式\6#\8.PC\1.EC6000F(2018-05-13)\TForm_Data_View\obj\Debug\Main.TForm_Data_View.resources
+F:\惠州程式\6#\8.PC\1.EC6000F(2018-05-13)\TForm_Data_View\bin\Debug\TForm_Data_View.dll
+F:\惠州程式\6#\8.PC\1.EC6000F(2018-05-13)\TForm_Data_View\bin\Debug\TForm_Data_View.pdb
+F:\惠州程式\6#\8.PC\1.EC6000F(2018-05-13)\TForm_Data_View\obj\Debug\TForm_Data_View.dll
+F:\惠州程式\6#\8.PC\1.EC6000F(2018-05-13)\TForm_Data_View\obj\Debug\TForm_Data_View.pdb
+F:\惠州程式\6#\8.PC\1.EC6000F(2018-05-13)\TForm_Data_View\bin\Debug\Tool.dll
+F:\惠州程式\6#\8.PC\1.EC6000F(2018-05-13)\TForm_Data_View\bin\Debug\Tool.pdb

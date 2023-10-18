@@ -1,0 +1,28 @@
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\Light_EFC.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\Light_EFC.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\Light_Base.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\Tool.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\Tool.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\Light_Base.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Light\Light_EFC\obj\Release\Light_EFC.csprojResolveAssemblyReference.cache
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Light\Light_EFC\obj\Release\Light_EFC.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Light\Light_EFC\obj\Release\Light_EFC.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\Light_EFC.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\Light_EFC.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\Light_Base.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\Tool.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\Camera_Base.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\Base_Vision.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\halcondotnetxl.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\TJJS_XML_File.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\JJS_CAD.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\Tool.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\Light_Base.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\Camera_Base.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\Base_Vision.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\halcondotnetxl.xml
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\TJJS_XML_File.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Light\Light_EFC\bin\Release\JJS_CAD.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Light\Light_EFC\obj\Release\Light_EFC.csprojResolveAssemblyReference.cache
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Light\Light_EFC\obj\Release\Light_EFC.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Light\Light_EFC\obj\Release\Light_EFC.pdb

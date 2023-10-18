@@ -1,0 +1,15 @@
+C:\Users\EFC\Desktop\CameraLinkControl\Light\bin\Debug\Light.dll
+C:\Users\EFC\Desktop\CameraLinkControl\Light\bin\Debug\Light.pdb
+C:\Users\EFC\Desktop\CameraLinkControl\Light\obj\Debug\Light.csprojResolveAssemblyReference.cache
+C:\Users\EFC\Desktop\CameraLinkControl\Light\obj\Debug\Light.dll
+C:\Users\EFC\Desktop\CameraLinkControl\Light\obj\Debug\Light.pdb
+C:\Users\EFC\Desktop\實驗機\CShape_Lib\Source_Code\Light\Light\bin\Debug\Light.dll
+C:\Users\EFC\Desktop\實驗機\CShape_Lib\Source_Code\Light\Light\bin\Debug\Light.pdb
+C:\Users\EFC\Desktop\實驗機\CShape_Lib\Source_Code\Light\Light\obj\Debug\Light.dll
+C:\Users\EFC\Desktop\實驗機\CShape_Lib\Source_Code\Light\Light\obj\Debug\Light.pdb
+D:\Users\user\Desktop\實驗機\CShape_Lib\Source_Code\Light\Light\bin\Debug\Light.dll
+D:\Users\user\Desktop\實驗機\CShape_Lib\Source_Code\Light\Light\bin\Debug\Light.pdb
+D:\Users\user\Desktop\實驗機\CShape_Lib\Source_Code\Light\Light\obj\Debug\Light.csprojResolveAssemblyReference.cache
+D:\Users\user\Desktop\實驗機\CShape_Lib\Source_Code\Light\Light\obj\Debug\Light.dll
+D:\Users\user\Desktop\實驗機\CShape_Lib\Source_Code\Light\Light\obj\Debug\Light.pdb
+C:\Users\EFC\Desktop\實驗機\CShape_Lib\Source_Code\Light\Light\obj\Debug\Light.csprojResolveAssemblyReference.cache

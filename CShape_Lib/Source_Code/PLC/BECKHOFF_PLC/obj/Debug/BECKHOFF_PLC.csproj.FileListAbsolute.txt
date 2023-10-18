@@ -1,0 +1,28 @@
+E:\PCB AOI\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\obj\Debug\BECKHOFF_PLC.csprojResolveAssemblyReference.cache
+E:\PCB AOI\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\obj\Debug\KEYENCE_PLC.pdb
+E:\PCB AOI\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\bin\Debug\KEYENCE_PLC.dll
+E:\PCB AOI\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\bin\Debug\KEYENCE_PLC.pdb
+E:\PCB AOI\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\bin\Debug\Base_PLC.dll
+E:\PCB AOI\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\bin\Debug\Tool.dll
+E:\PCB AOI\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\bin\Debug\Tool.pdb
+E:\PCB AOI\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\bin\Debug\Base_PLC.pdb
+E:\PCB AOI\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\obj\Debug\KEYENCE_PLC.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\bin\Debug\BECKHOFF_PLC.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\bin\Debug\BECKHOFF_PLC.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\bin\Debug\Base_PLC.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\bin\Debug\Tool.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\bin\Debug\Tool.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\bin\Debug\Base_PLC.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\obj\Debug\BECKHOFF_PLC.csprojResolveAssemblyReference.cache
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\obj\Debug\BECKHOFF_PLC.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\obj\Debug\BECKHOFF_PLC.pdb
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\bin\Debug\BECKHOFF_PLC.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\bin\Debug\BECKHOFF_PLC.pdb
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\bin\Debug\Base_PLC.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\bin\Debug\Tool.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\bin\Debug\TwinCAT.Ads.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\bin\Debug\Tool.pdb
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\bin\Debug\Base_PLC.pdb
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\obj\Debug\BECKHOFF_PLC.csprojResolveAssemblyReference.cache
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\obj\Debug\BECKHOFF_PLC.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\PLC\BECKHOFF_PLC\obj\Debug\BECKHOFF_PLC.pdb

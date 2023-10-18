@@ -1,0 +1,69 @@
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HTool: type has no family visible contructors.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HalconAPI: type has no family visible contructors.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HTupleImplementation: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HTupleVoid: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HTupleInt32: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HTupleInt64: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HTupleDouble: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HTupleString: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HTupleMixed: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HObjectBase: type has no family visible contructors.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HTupleAccessException: type has no family visible contructors.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HTupleType: type is a value type.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HData: type has no family visible contructors.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HTupleElements: type has no family visible contructors.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HTupleElementsImplementation: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HTupleElementsInt32: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HTupleElementsInt64: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HTupleElementsDouble: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HTupleElementsString: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HTupleElementsMixed: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HMouseEventArgs: type has no family visible contructors.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HMouseEventHandler: type is sealed.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HInitWindowEventHandler: type is sealed.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HalconWindowLayoutDialog: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HProcIDs: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HWInitEventHandler: type is sealed.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HWButtonEventHandler: type is sealed.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HWMouseEventHandler: type is sealed.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HWindowWPF: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.WM: type is a value type.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.VK: type is a value type.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HMouseEventArgsWPF: type has no family visible contructors.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HMouseEventHandlerWPF: type is sealed.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate stub for HalconDotNet.HInitWindowEventHandlerWPF: type is sealed.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HalconAPI+HClearProcCallBack: type is a delegate.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HalconAPI+HFramegrabberCallback: type is a delegate.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HalconAPI+HLowLevelErrorCallback: type is a delegate.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HalconAPI+HMlpProgressCallback: type is a delegate.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HalconAPI+HSvmProgressCallback: type is a delegate.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HTupleImplementation: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HTupleVoid: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HTupleInt32: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HTupleInt64: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HTupleDouble: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HTupleString: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HTupleMixed: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HTupleType: type is an enum.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HTuple+NativeDouble2To1: type is a delegate.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HTuple+NativeInt2To1: type is a delegate.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HTuple+NativeLong2To1: type is a delegate.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HTuple+ResultSize: type is an enum.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HTupleElementsImplementation: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HTupleElementsInt32: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HTupleElementsInt64: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HTupleElementsDouble: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HTupleElementsString: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HTupleElementsMixed: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HMouseEventHandler: type is a delegate.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HInitWindowEventHandler: type is a delegate.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HalconWindowLayoutDialog: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HProcIDs: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HWInitEventHandler: type is a delegate.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HWButtonEventHandler: type is a delegate.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HWMouseEventHandler: type is a delegate.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HWindowWPF: type is not visible to exported or assembly(halcondotnet.11.0.5.0.Fakes).
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.WM: type is an enum.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.VK: type is an enum.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HMouseEventHandlerWPF: type is a delegate.
+E:\PCB AOI\CShape_Lib\Source_Code\Camera\Euresys_Camera\Fakes\halcondotnet.fakes : warning : Cannot generate shim for HalconDotNet.HInitWindowEventHandlerWPF: type is a delegate.

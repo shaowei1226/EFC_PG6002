@@ -1,0 +1,64 @@
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\Halcon_Tool.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\Halcon_Tool.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\Base_Vision.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\halcondotnet.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\JJS_CAD.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\TJJS_XML_File.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\Tool.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\JJS_CAD.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\TJJS_XML_File.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\Tool.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\Base_Vision.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\halcondotnet.xml
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\Halcon_Tool.csprojResolveAssemblyReference.cache
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\EFC.Vision.Halcon.Properties.Resources.resources
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\EFC.Vision.Halcon.TForm_Halcon_Tool.resources
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\EFC.Vision.Halcon.TForm_Inport_CMD.resources
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\EFC.Vision.Halcon.TForm_User_Define.resources
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\Halcon_Tool.csproj.GenerateResource.Cache
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\Halcon_Tool.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\Halcon_Tool.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\Halcon_Tool.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\Halcon_Tool.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\Base_Vision.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\halcondotnetxl.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\JJS_CAD.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\TJJS_XML_File.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\Tool.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\JJS_CAD.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\TJJS_XML_File.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\Tool.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\Base_Vision.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\halcondotnetxl.xml
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\Halcon_Tool.csprojResolveAssemblyReference.cache
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\EFC.Vision.Halcon.Properties.Resources.resources
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\EFC.Vision.Halcon.TForm_Input_CMD_Name.resources
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\EFC.Vision.Halcon.TForm_Input_Password.resources
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\EFC.Vision.Halcon.TForm_Halcon_Tool.resources
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\EFC.Vision.Halcon.TForm_Inport_CMD.resources
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\EFC.Vision.Halcon.TForm_User_Define.resources
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\Halcon_Tool.csproj.GenerateResource.Cache
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\Halcon_Tool.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\Halcon_Tool.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\Halcon_Tool.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\Halcon_Tool.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\Base_Vision.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\halcondotnetxl.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\JJS_CAD.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\TJJS_XML_File.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\Tool.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\JJS_CAD.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\TJJS_XML_File.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\Tool.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\Base_Vision.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Vision\Halcon_Tool\bin\Release\halcondotnetxl.xml
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\Halcon_Tool.csprojResolveAssemblyReference.cache
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\EFC.Vision.Halcon.Properties.Resources.resources
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\EFC.Vision.Halcon.TForm_Input_CMD_Name.resources
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\EFC.Vision.Halcon.TForm_Input_Password.resources
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\EFC.Vision.Halcon.TForm_Halcon_Tool.resources
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\EFC.Vision.Halcon.TForm_Inport_CMD.resources
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\EFC.Vision.Halcon.TForm_User_Define.resources
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\Halcon_Tool.csproj.GenerateResource.Cache
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\Halcon_Tool.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-07-26)\CShape_Lib\Source_Code\Vision\Halcon_Tool\obj\Release\Halcon_Tool.pdb

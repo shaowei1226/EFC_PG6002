@@ -1,0 +1,419 @@
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csprojResolveAssemblyReference.cache
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.Properties.Resources.resources
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.TForm_ACF_Check.resources
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csproj.GenerateResource.Cache
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\Find_KDL_AOI.dll
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\Find_KDL_AOI.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_KDL_AOI.dll
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_KDL_AOI.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.dll
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Camera.dll
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.dll
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.dll
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnet.dll
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.dll
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.dll
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.dll
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.dll
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Camera.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnet.xml
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_KDL_AOI.dll
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_KDL_AOI.pdb
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.dll
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Camera.dll
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.dll
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.dll
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnet.dll
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.dll
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.dll
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.dll
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.dll
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.pdb
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Camera.pdb
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.pdb
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.pdb
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.pdb
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.pdb
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.pdb
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.pdb
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnet.xml
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csprojResolveAssemblyReference.cache
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.Properties.Resources.resources
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.TForm_ACF_Check.resources
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csproj.GenerateResource.Cache
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\Find_KDL_AOI.dll
+E:\New_ACF_Check\Test_ACF_Check\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\Find_KDL_AOI.pdb
+E:\JJS_專案\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csprojResolveAssemblyReference.cache
+E:\JJS_專案\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.Properties.Resources.resources
+E:\JJS_專案\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.TForm_ACF_Check.resources
+E:\JJS_專案\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csproj.GenerateResource.Cache
+E:\JJS_專案\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\Find_KDL_AOI.dll
+E:\JJS_專案\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\Find_KDL_AOI.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.xml
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csprojResolveAssemblyReference.cache
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.Properties.Resources.resources
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.TForm_ACF_Check.resources
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csproj.GenerateResource.Cache
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csprojResolveAssemblyReference.cache
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.Properties.Resources.resources
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.TForm_ACF_Check.resources
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csproj.GenerateResource.Cache
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.xml
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csprojResolveAssemblyReference.cache
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.Properties.Resources.resources
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.TForm_ACF_Check.resources
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csproj.GenerateResource.Cache
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.xml
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csprojResolveAssemblyReference.cache
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.Properties.Resources.resources
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.TForm_ACF_Check.resources
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csproj.GenerateResource.Cache
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.xml
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csprojResolveAssemblyReference.cache
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.Properties.Resources.resources
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.TForm_ACF_Check.resources
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csproj.GenerateResource.Cache
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csprojResolveAssemblyReference.cache
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.Properties.Resources.resources
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.TForm_ACF_Check.resources
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csproj.GenerateResource.Cache
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.xml
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csprojResolveAssemblyReference.cache
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.Properties.Resources.resources
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.TForm_ACF_Check.resources
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csproj.GenerateResource.Cache
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.xml
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csprojResolveAssemblyReference.cache
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.Properties.Resources.resources
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.TForm_ACF_Check.resources
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csproj.GenerateResource.Cache
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.xml
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csprojResolveAssemblyReference.cache
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.Properties.Resources.resources
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.TForm_ACF_Check.resources
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csproj.GenerateResource.Cache
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csprojResolveAssemblyReference.cache
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.Properties.Resources.resources
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.TForm_ACF_Check.resources
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csproj.GenerateResource.Cache
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.xml
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.dll
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.pdb
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.dll
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.dll
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.dll
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.dll
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.dll
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.dll
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.dll
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.dll
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.dll
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.pdb
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.pdb
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.pdb
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.pdb
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.pdb
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.pdb
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.pdb
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.pdb
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csprojResolveAssemblyReference.cache
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.Properties.Resources.resources
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.TForm_ACF_Check.resources
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csproj.GenerateResource.Cache
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.dll
+D:\PC\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.pdb
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.dll
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.pdb
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.dll
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.dll
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.dll
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.dll
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.dll
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.dll
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.dll
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.dll
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.dll
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.pdb
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.pdb
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.pdb
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.pdb
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.pdb
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.pdb
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.pdb
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.pdb
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.xml
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csprojResolveAssemblyReference.cache
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.Properties.Resources.resources
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.TForm_ACF_Check.resources
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csproj.GenerateResource.Cache
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.dll
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.pdb
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.dll
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.pdb
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.dll
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.dll
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.dll
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.dll
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.dll
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.dll
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.dll
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.dll
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.dll
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.pdb
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.pdb
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.pdb
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.pdb
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.pdb
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.pdb
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.pdb
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.pdb
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.xml
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csprojResolveAssemblyReference.cache
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.Properties.Resources.resources
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.TForm_ACF_Check.resources
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csproj.GenerateResource.Cache
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.dll
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.pdb
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.dll
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TACF_Check.pdb
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.dll
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.dll
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.dll
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.dll
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.dll
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.dll
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.dll
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.dll
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.dll
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\JJS_CAD.pdb
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Camera_Base.pdb
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\TJJS_XML_File.pdb
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Tool.pdb
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Align_Image.pdb
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Base_Vision.pdb
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Find_Model.pdb
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\Halcon_Tool.pdb
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\bin\Debug\halcondotnetxl.xml
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csprojResolveAssemblyReference.cache
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.Properties.Resources.resources
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\EFC.Vision.Halcon.TForm_ACF_Check.resources
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.csproj.GenerateResource.Cache
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.dll
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\Vision\Test_ACF_Check\obj\Debug\TACF_Check.pdb

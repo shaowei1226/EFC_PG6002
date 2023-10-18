@@ -1,0 +1,9 @@
+E:\CShape_Mastery_KTN_V1_0\[04]Instrument\TInficon_Class\bin\Debug\TInficon_Class.dll
+E:\CShape_Mastery_KTN_V1_0\[04]Instrument\TInficon_Class\bin\Debug\TInficon_Class.pdb
+E:\CShape_Mastery_KTN_V1_0\[04]Instrument\TInficon_Class\obj\Debug\TInficon_Class.dll
+E:\CShape_Mastery_KTN_V1_0\[04]Instrument\TInficon_Class\obj\Debug\TInficon_Class.pdb
+F:\惠州程式\6#\8.PC\CShape_Mastery_KTN_V1_0\[04]Instrument\TInficon_Class\bin\Debug\TInficon_Class.dll
+F:\惠州程式\6#\8.PC\CShape_Mastery_KTN_V1_0\[04]Instrument\TInficon_Class\bin\Debug\TInficon_Class.pdb
+F:\惠州程式\6#\8.PC\CShape_Mastery_KTN_V1_0\[04]Instrument\TInficon_Class\obj\Debug\TInficon_Class.csprojResolveAssemblyReference.cache
+F:\惠州程式\6#\8.PC\CShape_Mastery_KTN_V1_0\[04]Instrument\TInficon_Class\obj\Debug\TInficon_Class.dll
+F:\惠州程式\6#\8.PC\CShape_Mastery_KTN_V1_0\[04]Instrument\TInficon_Class\obj\Debug\TInficon_Class.pdb

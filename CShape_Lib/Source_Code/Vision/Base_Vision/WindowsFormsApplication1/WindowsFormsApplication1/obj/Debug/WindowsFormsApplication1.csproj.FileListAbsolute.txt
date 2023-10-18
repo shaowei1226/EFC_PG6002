@@ -1,0 +1,11 @@
+E:\1.工作專案\CShape_Lib\Source_Code\Vision\Base_Vision\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\1.工作專案\CShape_Lib\Source_Code\Vision\Base_Vision\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\1.工作專案\CShape_Lib\Source_Code\Vision\Base_Vision\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\1.工作專案\CShape_Lib\Source_Code\Vision\Base_Vision\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\halcondotnet.dll
+E:\1.工作專案\CShape_Lib\Source_Code\Vision\Base_Vision\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\halcondotnet.xml
+E:\1.工作專案\CShape_Lib\Source_Code\Vision\Base_Vision\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\1.工作專案\CShape_Lib\Source_Code\Vision\Base_Vision\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\1.工作專案\CShape_Lib\Source_Code\Vision\Base_Vision\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\1.工作專案\CShape_Lib\Source_Code\Vision\Base_Vision\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\1.工作專案\CShape_Lib\Source_Code\Vision\Base_Vision\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\1.工作專案\CShape_Lib\Source_Code\Vision\Base_Vision\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

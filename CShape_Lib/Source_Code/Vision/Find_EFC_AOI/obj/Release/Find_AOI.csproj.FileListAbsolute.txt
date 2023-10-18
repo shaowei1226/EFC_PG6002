@@ -1,0 +1,4 @@
+E:\1.工作專案\CShape_Lib\Source_Code\Vision\Find_AOI\obj\Release\Find_AOI.Properties.Resources.resources
+E:\1.工作專案\CShape_Lib\Source_Code\Vision\Find_AOI\obj\Release\EFC.Vision.Halcon.TForm_AOI_1.resources
+E:\1.工作專案\CShape_Lib\Source_Code\Vision\Find_AOI\obj\Release\EFC.Vision.Halcon.TForm_Set_Filter.resources
+E:\1.工作專案\CShape_Lib\Source_Code\Vision\Find_AOI\obj\Release\Find_AOI.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+E:\CShape_Lib\Source_Code\JJS_Obj\JJS_Obj\TLight\bin\Debug\TLight.dll
+E:\CShape_Lib\Source_Code\JJS_Obj\JJS_Obj\TLight\bin\Debug\TLight.pdb
+E:\CShape_Lib\Source_Code\JJS_Obj\JJS_Obj\TLight\bin\Debug\JJS_Obj.dll
+E:\CShape_Lib\Source_Code\JJS_Obj\JJS_Obj\TLight\bin\Debug\JJS_Obj.pdb
+E:\CShape_Lib\Source_Code\JJS_Obj\JJS_Obj\TLight\obj\Debug\TLight.csprojResolveAssemblyReference.cache
+E:\CShape_Lib\Source_Code\JJS_Obj\JJS_Obj\TLight\obj\Debug\TLight.dll
+E:\CShape_Lib\Source_Code\JJS_Obj\JJS_Obj\TLight\obj\Debug\TLight.pdb
+E:\CShape_Lib\Source_Code\Light\EFC_Light\obj\Debug\TLight.csprojResolveAssemblyReference.cache
+E:\CShape_Lib\Source_Code\Light\EFC_Light\obj\Debug\TLight.dll

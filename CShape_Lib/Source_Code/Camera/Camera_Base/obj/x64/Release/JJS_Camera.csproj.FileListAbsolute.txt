@@ -1,0 +1,9 @@
+E:\SH2001\SH2001\JJS_Camera\bin\x64\Release\JJS_Camera.dll
+E:\SH2001\SH2001\JJS_Camera\bin\x64\Release\JJS_Camera.pdb
+E:\SH2001\SH2001\JJS_Camera\bin\x64\Release\halcondotnet.dll
+E:\SH2001\SH2001\JJS_Camera\bin\x64\Release\JJS_Obj.dll
+E:\SH2001\SH2001\JJS_Camera\bin\x64\Release\JJS_Obj.pdb
+E:\SH2001\SH2001\JJS_Camera\bin\x64\Release\halcondotnet.xml
+E:\SH2001\SH2001\JJS_Camera\obj\x64\Release\JJS_Camera.csprojResolveAssemblyReference.cache
+E:\SH2001\SH2001\JJS_Camera\obj\x64\Release\JJS_Camera.dll
+E:\SH2001\SH2001\JJS_Camera\obj\x64\Release\JJS_Camera.pdb

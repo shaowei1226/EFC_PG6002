@@ -1,0 +1,590 @@
+D:\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+D:\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+D:\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+D:\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+D:\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+D:\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+D:\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\1.工作專案\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\1.工作專案\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\1.工作專案\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\1.工作專案\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\1.工作專案\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\1.工作專案\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\1.工作專案\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\EC6000F(2018-05-19)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\EC6000F(2018-05-19)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\EC6000F(2018-05-19)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\EC6000F(2018-05-19)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\EC6000F(2018-05-19)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\EC6000F(2018-05-19)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\EC6000F(2018-05-19)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\EC6000F(2018-05-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\EC6000F(2018-05-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\EC6000F(2018-05-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\EC6000F(2018-05-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\EC6000F(2018-05-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\EC6000F(2018-05-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\EC6000F(2018-05-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+F:\惠州程式\6#\8.PC\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+F:\惠州程式\6#\8.PC\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+F:\惠州程式\6#\8.PC\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+F:\惠州程式\6#\8.PC\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+F:\惠州程式\6#\8.PC\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+F:\惠州程式\6#\8.PC\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+F:\惠州程式\6#\8.PC\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\惠州程式\6#\8.PC\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\惠州程式\6#\8.PC\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\惠州程式\6#\8.PC\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\惠州程式\6#\8.PC\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\惠州程式\6#\8.PC\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\惠州程式\6#\8.PC\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\惠州程式\6#\8.PC\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\EC6000S(2018-06-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\EC6000S(2018-06-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\EC6000S(2018-06-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\EC6000S(2018-06-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\EC6000S(2018-06-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\EC6000S(2018-06-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\EC6000S(2018-06-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\EC6000B(2018-06-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\EC6000B(2018-06-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\EC6000B(2018-06-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\EC6000B(2018-06-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\EC6000B(2018-06-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\EC6000B(2018-06-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\EC6000B(2018-06-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\EC6000S(2018-07-26)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\EC6000S(2018-07-26)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\EC6000S(2018-07-26)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\EC6000S(2018-07-26)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\EC6000S(2018-07-26)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\EC6000S(2018-07-26)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\EC6000S(2018-07-26)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\1.工作專案\量測儀器\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\1.工作專案\量測儀器\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\1.工作專案\量測儀器\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\1.工作專案\量測儀器\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\1.工作專案\量測儀器\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\1.工作專案\量測儀器\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\11.客服程式暫存\DP4002(2018-10-30)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\11.客服程式暫存\DP4002(2018-10-30)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\11.客服程式暫存\DP4002(2018-10-30)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\11.客服程式暫存\DP4002(2018-10-30)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\11.客服程式暫存\DP4002(2018-10-30)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\11.客服程式暫存\DP4002(2018-10-30)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\11.客服程式暫存\DP4002(2018-10-30)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\DP4002(2018-10-30)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\DP4002(2018-10-30)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\DP4002(2018-10-30)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\DP4002(2018-10-30)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\DP4002(2018-10-30)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\DP4002(2018-10-30)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\DP4002(2018-10-30)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\Source\DP4002(2018-11-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\Source\DP4002(2018-11-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\Source\DP4002(2018-11-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\Source\DP4002(2018-11-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\Source\DP4002(2018-11-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\Source\DP4002(2018-11-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\Source\DP4002(2018-11-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\11.客服程式暫存\DP4002(2018-11-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\11.客服程式暫存\DP4002(2018-11-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\11.客服程式暫存\DP4002(2018-11-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\11.客服程式暫存\DP4002(2018-11-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\11.客服程式暫存\DP4002(2018-11-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\11.客服程式暫存\DP4002(2018-11-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\11.客服程式暫存\DP4002(2018-11-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2018-11-08)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\11.客服程式暫存\DP4002\DP4002(2018-11-08)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2018-11-08)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\11.客服程式暫存\DP4002\DP4002(2018-11-08)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\11.客服程式暫存\DP4002\DP4002(2018-11-08)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2018-11-08)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2018-11-08)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\11.客服程式暫存\DP4002\DP4002(2018-11-08)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\11.客服程式暫存\DP4002\DP4002(2018-11-08)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\11.客服程式暫存\DP4002\DP4002(2019-01-23)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\DP4002(2019-01-23)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\ZE5133(2019-07-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\JJS_專案\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\JJS_專案\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\JJS_專案\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\JJS_專案\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\JJS_專案\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\JJS_專案\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\JJS_專案\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\JJS_專案\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\JJS_專案\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\JJS_專案\MI4001(2020-01-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\MI4001(2020-02-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\MI4001(2020-02-18)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\MI4001(2020-02-21)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+D:\Users\user\Desktop\MI4001\MI4001(2020-03-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+C:\Users\EFC\Desktop\MI4001(2020-03-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\MI4001(2020-03-04-1)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\MI4001(2020-03-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+D:\MI4001\MI4001\MI4001(2020-03-06)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+G:\隨身碟資料\MI4001\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\MI4001_Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\MI4001_Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\MI4001_Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\MI4001_Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\MI4001_Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\MI4001_Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\MI4001_Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\MI4001_Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\MI4001_Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\MI4001-Test1\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\MI4001-Test1\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\MI4001-Test1\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\MI4001-Test1\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\MI4001-Test1\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\MI4001-Test1\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\MI4001-Test1\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\MI4001-Test1\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\MI4001-Test1\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\MI4001-Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\MI4001-Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\MI4001-Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\MI4001-Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\MI4001-Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\MI4001-Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\MI4001-Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\MI4001-Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\MI4001-Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\隨身碟資料\MI4001-0606Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\MI4001-0606Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\MI4001-0606Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\MI4001-0606Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\MI4001-0606Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\MI4001-0606Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\MI4001-0606Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\MI4001-0606Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\MI4001-0606Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\MI4001-0606Test\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\MI4001-0606\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\MI4001-0606\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\MI4001-0606\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\MI4001-0606\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\MI4001-0606\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\MI4001-0606\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\MI4001-0606\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\MI4001-0606\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\MI4001-0606\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\MI4001-0608\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\MI4001-0608\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\MI4001-0608\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\MI4001-0608\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\MI4001-0608\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\MI4001-0608\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\MI4001-0608\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\MI4001-0608\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\MI4001-0608\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\MI4001-0615\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\MI4001-0615\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\MI4001-0615\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\MI4001-0615\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\MI4001-0615\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\MI4001-0615\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\MI4001-0615\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\MI4001-0615\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\MI4001-0615\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+G:\隨身碟資料\MI4001-0615\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+G:\隨身碟資料\MI4001-0617\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\隨身碟資料\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\JJS_專案\君偉\MI4001-0619\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\PCB AOI\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\PCB AOI\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\PCB AOI\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\PCB AOI\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\PCB AOI\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\PCB AOI\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\PCB AOI\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\PCB AOI\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\PCB AOI\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\LD2018(2021-05-10)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\LD201(2021-06-28)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\JJS_專案\君偉\JJS_測試\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\ZE3565(2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+F:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+D:\ZE3565(PC 2021-07-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+D:\ZE3565(PC 2021-08-03)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+D:\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+D:\PC\ZE3565(PC 2021-08-04)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+D:\PC\ZE3565(PC 2021-08-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+D:\PC\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+D:\PC\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+D:\PC\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+D:\PC\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+D:\PC\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+D:\PC\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+D:\PC\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+D:\PC\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+D:\PC\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\測試專案\PC\FG4007(2021-09-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\測試專案\PC\FG4007(2021-10-28)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\測試專案\PC\AO4006(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\測試專案\PC\ZA2107(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\測試專案\PC\ZA2107(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\測試專案\PC\ZA2107(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\測試專案\PC\ZA2107(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\測試專案\PC\ZA2107(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\測試專案\PC\ZA2107(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\測試專案\PC\ZA2107(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\測試專案\PC\ZA2107(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\測試專案\PC\ZA2107(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\測試專案\PC\ZA2107\ZA2107(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\測試專案\PC\ZA2107\ZA2107(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\測試專案\PC\ZA2107\ZA2107(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\測試專案\PC\ZA2107\ZA2107(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\測試專案\PC\ZA2107\ZA2107(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\測試專案\PC\ZA2107\ZA2107(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\測試專案\PC\ZA2107\ZA2107(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\測試專案\PC\ZA2107\ZA2107(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\測試專案\PC\ZA2107\ZA2107(2021-11-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+D:\Users\jjs\Desktop\AH2002(2022-01-24)\1.PC\AH2002(2022-01-25)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+D:\Users\jjs\Desktop\AH2002(2022-01-24)\1.PC\AH2002(2022-01-25)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+D:\Users\jjs\Desktop\AH2002(2022-01-24)\1.PC\AH2002(2022-01-25)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+D:\Users\jjs\Desktop\AH2002(2022-01-24)\1.PC\AH2002(2022-01-25)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+D:\Users\jjs\Desktop\AH2002(2022-01-24)\1.PC\AH2002(2022-01-25)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+D:\Users\jjs\Desktop\AH2002(2022-01-24)\1.PC\AH2002(2022-01-25)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+D:\Users\jjs\Desktop\AH2002(2022-01-24)\1.PC\AH2002(2022-01-25)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+D:\Users\jjs\Desktop\AH2002(2022-01-24)\1.PC\AH2002(2022-01-25)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+D:\Users\jjs\Desktop\AH2002(2022-01-24)\1.PC\AH2002(2022-01-25)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\測試專案\PC\FG4008\FG4008(2022-02-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\測試專案\PC\FG4008\FG4008(2022-02-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\測試專案\PC\FG4008\FG4008(2022-02-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\測試專案\PC\FG4008\FG4008(2022-02-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\測試專案\PC\FG4008\FG4008(2022-02-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\測試專案\PC\FG4008\FG4008(2022-02-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\測試專案\PC\FG4008\FG4008(2022-02-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\測試專案\PC\FG4008\FG4008(2022-02-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\測試專案\PC\FG4008\FG4008(2022-02-09)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+D:\PC\FG4008(2022-04-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+D:\PC\FG4008(2022-04-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+D:\PC\FG4008(2022-04-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+D:\PC\FG4008(2022-04-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+D:\PC\FG4008(2022-04-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+D:\PC\FG4008(2022-04-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+D:\PC\FG4008(2022-04-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+D:\PC\FG4008(2022-04-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+D:\PC\FG4008(2022-04-07)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+D:\PC\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+D:\PC\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+D:\PC\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+D:\PC\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+D:\PC\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+D:\PC\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+D:\PC\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+D:\PC\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+D:\PC\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-12)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+D:\PC\FG4008_PC1(2022-04-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+D:\PC\FG4008_PC1(2022-04-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+D:\PC\FG4008_PC1(2022-04-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+D:\PC\FG4008_PC1(2022-04-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+D:\PC\FG4008_PC1(2022-04-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+D:\PC\FG4008_PC1(2022-04-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+D:\PC\FG4008_PC1(2022-04-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+D:\PC\FG4008_PC1(2022-04-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+D:\PC\FG4008_PC1(2022-04-15)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+E:\測試專案\PC\FG4008\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb
+D:\PC\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.dll
+D:\PC\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\TPLC_Connect.pdb
+D:\PC\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.dll
+D:\PC\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.dll
+D:\PC\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Tool.pdb
+D:\PC\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\bin\Debug\Base_PLC.pdb
+D:\PC\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\Melsec.csprojResolveAssemblyReference.cache
+D:\PC\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.dll
+D:\PC\FG4008_PC1(2022-04-20)\CShape_Lib\Source_Code\PLC\Melsec_PLC\obj\Debug\TPLC_Connect.pdb

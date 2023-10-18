@@ -1,0 +1,5 @@
+E:\CShape_Lib\Source_Code\Tool\Tool\bin\Debug\Tool.dll
+E:\CShape_Lib\Source_Code\Tool\Tool\bin\Debug\Tool.pdb
+E:\CShape_Lib\Source_Code\Tool\Tool\obj\Debug\Tool.csprojResolveAssemblyReference.cache
+E:\CShape_Lib\Source_Code\Tool\Tool\obj\Debug\Tool.dll
+E:\CShape_Lib\Source_Code\Tool\Tool\obj\Debug\Tool.pdb
