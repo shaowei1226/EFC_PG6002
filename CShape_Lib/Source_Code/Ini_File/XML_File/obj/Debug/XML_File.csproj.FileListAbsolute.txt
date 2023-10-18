@@ -865,3 +865,10 @@ D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-10-12)\CShape_Lib\S
 D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-10-12)\CShape_Lib\Source_Code\Ini_File\XML_File\obj\Debug\XML_File.csprojResolveAssemblyReference.cache
 D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-10-12)\CShape_Lib\Source_Code\Ini_File\XML_File\obj\Debug\TJJS_XML_File.dll
 D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-10-12)\CShape_Lib\Source_Code\Ini_File\XML_File\obj\Debug\TJJS_XML_File.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\Ini_File\XML_File\bin\Debug\TJJS_XML_File.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\Ini_File\XML_File\bin\Debug\TJJS_XML_File.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\Ini_File\XML_File\bin\Debug\Tool.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\Ini_File\XML_File\bin\Debug\Tool.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\Ini_File\XML_File\obj\Debug\XML_File.csprojResolveAssemblyReference.cache
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\Ini_File\XML_File\obj\Debug\TJJS_XML_File.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\Ini_File\XML_File\obj\Debug\TJJS_XML_File.pdb

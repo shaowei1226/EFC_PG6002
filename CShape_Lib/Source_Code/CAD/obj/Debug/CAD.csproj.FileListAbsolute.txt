@@ -856,3 +856,10 @@ D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-10-12)\CShape_Lib\S
 D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-10-12)\CShape_Lib\Source_Code\CAD\obj\Debug\CAD.csprojResolveAssemblyReference.cache
 D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-10-12)\CShape_Lib\Source_Code\CAD\obj\Debug\JJS_CAD.dll
 D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-10-12)\CShape_Lib\Source_Code\CAD\obj\Debug\JJS_CAD.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\CAD\bin\Debug\JJS_CAD.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\CAD\bin\Debug\JJS_CAD.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\CAD\bin\Debug\Tool.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\CAD\bin\Debug\Tool.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\CAD\obj\Debug\CAD.csprojResolveAssemblyReference.cache
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\CAD\obj\Debug\JJS_CAD.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\CAD\obj\Debug\JJS_CAD.pdb

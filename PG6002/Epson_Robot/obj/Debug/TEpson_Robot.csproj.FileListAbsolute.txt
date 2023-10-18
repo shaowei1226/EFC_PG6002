@@ -426,3 +426,12 @@ D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-10-12)\PG6002\Epson
 D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-10-12)\PG6002\Epson_Robot\obj\Debug\TEpson_Robot.csprojResolveAssemblyReference.cache
 D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-10-12)\PG6002\Epson_Robot\obj\Debug\TEpson_Robot.dll
 D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-10-12)\PG6002\Epson_Robot\obj\Debug\TEpson_Robot.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\PG6002\Epson_Robot\bin\Debug\TEpson_Robot.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\PG6002\Epson_Robot\bin\Debug\TEpson_Robot.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\PG6002\Epson_Robot\bin\Debug\TJJS_XML_File.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\PG6002\Epson_Robot\bin\Debug\Tool.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\PG6002\Epson_Robot\bin\Debug\TJJS_XML_File.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\PG6002\Epson_Robot\bin\Debug\Tool.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\PG6002\Epson_Robot\obj\Debug\TEpson_Robot.csprojResolveAssemblyReference.cache
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\PG6002\Epson_Robot\obj\Debug\TEpson_Robot.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\PG6002\Epson_Robot\obj\Debug\TEpson_Robot.pdb

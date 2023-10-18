@@ -956,3 +956,12 @@ D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-10-12)\CShape_Lib\S
 D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-10-12)\CShape_Lib\Source_Code\Tool\JJS_Tool\obj\Debug\JJS_Tool.csproj.GenerateResource.Cache
 D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-10-12)\CShape_Lib\Source_Code\Tool\JJS_Tool\obj\Debug\Tool.dll
 D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-10-12)\CShape_Lib\Source_Code\Tool\JJS_Tool\obj\Debug\Tool.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\Tool\JJS_Tool\bin\Debug\Tool.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\Tool\JJS_Tool\bin\Debug\Tool.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\Tool\JJS_Tool\obj\Debug\JJS_Tool.csprojResolveAssemblyReference.cache
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\Tool\JJS_Tool\obj\Debug\EFC.Tool.TForm_Log_Sort.resources
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\Tool\JJS_Tool\obj\Debug\EFC.Tool.Properties.Resources.resources
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\Tool\JJS_Tool\obj\Debug\EFC.Tool.TForm_Message.resources
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\Tool\JJS_Tool\obj\Debug\JJS_Tool.csproj.GenerateResource.Cache
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\Tool\JJS_Tool\obj\Debug\Tool.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\Tool\JJS_Tool\obj\Debug\Tool.pdb

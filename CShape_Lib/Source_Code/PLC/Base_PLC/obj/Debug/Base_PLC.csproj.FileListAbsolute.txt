@@ -796,3 +796,10 @@ D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-10-12)\CShape_Lib\S
 D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-10-12)\CShape_Lib\Source_Code\PLC\Base_PLC\obj\Debug\Base_PLC.csprojResolveAssemblyReference.cache
 D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-10-12)\CShape_Lib\Source_Code\PLC\Base_PLC\obj\Debug\Base_PLC.dll
 D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-10-12)\CShape_Lib\Source_Code\PLC\Base_PLC\obj\Debug\Base_PLC.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\PLC\Base_PLC\bin\Debug\Base_PLC.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\PLC\Base_PLC\bin\Debug\Base_PLC.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\PLC\Base_PLC\bin\Debug\Tool.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\PLC\Base_PLC\bin\Debug\Tool.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\PLC\Base_PLC\obj\Debug\Base_PLC.csprojResolveAssemblyReference.cache
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\PLC\Base_PLC\obj\Debug\Base_PLC.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\PLC\Base_PLC\obj\Debug\Base_PLC.pdb

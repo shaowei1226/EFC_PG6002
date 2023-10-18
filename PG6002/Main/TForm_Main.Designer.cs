@@ -51,6 +51,7 @@
             this.TP_Main = new System.Windows.Forms.TabPage();
             this.tabControl4 = new System.Windows.Forms.TabControl();
             this.tabPage3 = new System.Windows.Forms.TabPage();
+            this.tFrame_Display1 = new Main.TFrame_Display();
             this.toolStrip2 = new System.Windows.Forms.ToolStrip();
             this.TSM_X1 = new System.Windows.Forms.ToolStripDropDownButton();
             this.TSM_X1_1 = new System.Windows.Forms.ToolStripMenuItem();
@@ -64,6 +65,7 @@
             this.toolStripSeparator10 = new System.Windows.Forms.ToolStripSeparator();
             this.tabPage6 = new System.Windows.Forms.TabPage();
             this.panel7 = new System.Windows.Forms.Panel();
+            this.tFrame_Display2 = new Main.TFrame_Display();
             this.panel5 = new System.Windows.Forms.Panel();
             this.panel9 = new System.Windows.Forms.Panel();
             this.label20 = new System.Windows.Forms.Label();
@@ -72,6 +74,7 @@
             this.button3 = new System.Windows.Forms.Button();
             this.tabPage5 = new System.Windows.Forms.TabPage();
             this.panel27 = new System.Windows.Forms.Panel();
+            this.tFrame_Display3 = new Main.TFrame_Display();
             this.TP_Log = new System.Windows.Forms.TabPage();
             this.tabControl3 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
@@ -107,6 +110,10 @@
             this.B_ALL_Close = new System.Windows.Forms.Button();
             this.B_ALL_Open = new System.Windows.Forms.Button();
             this.panel10 = new System.Windows.Forms.Panel();
+            this.tFrame_Set_Light4 = new EFC.Light.TFrame_Set_Light();
+            this.tFrame_Set_Light3 = new EFC.Light.TFrame_Set_Light();
+            this.tFrame_Set_Light2 = new EFC.Light.TFrame_Set_Light();
+            this.tFrame_Set_Light1 = new EFC.Light.TFrame_Set_Light();
             this.TP_ACF = new System.Windows.Forms.TabPage();
             this.label1 = new System.Windows.Forms.Label();
             this.CB_ACF_Check_No = new System.Windows.Forms.ComboBox();
@@ -194,8 +201,12 @@
             this.label25 = new System.Windows.Forms.Label();
             this.B_Robot_Loop_Run_Reset = new System.Windows.Forms.Button();
             this.tabPage11 = new System.Windows.Forms.TabPage();
-            this.Plasma_Setting = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.Plasma_Setting = new System.Windows.Forms.Button();
+            this.label31 = new System.Windows.Forms.Label();
+            this.label30 = new System.Windows.Forms.Label();
+            this.T_Set_Count = new System.Windows.Forms.TextBox();
+            this.T_Set_Speed = new System.Windows.Forms.TextBox();
             this.ME_Plasma_Clean_Count = new System.Windows.Forms.TextBox();
             this.label33 = new System.Windows.Forms.Label();
             this.ME_Plasma_Clean_Speed = new System.Windows.Forms.TextBox();
@@ -230,17 +241,7 @@
             this.saveFileDialog1 = new System.Windows.Forms.SaveFileDialog();
             this.panel4 = new System.Windows.Forms.Panel();
             this.B_Tool = new System.Windows.Forms.Button();
-            this.tFrame_Display1 = new Main.TFrame_Display();
-            this.tFrame_Display2 = new Main.TFrame_Display();
-            this.tFrame_Display3 = new Main.TFrame_Display();
-            this.tFrame_Set_Light4 = new EFC.Light.TFrame_Set_Light();
-            this.tFrame_Set_Light3 = new EFC.Light.TFrame_Set_Light();
-            this.tFrame_Set_Light2 = new EFC.Light.TFrame_Set_Light();
-            this.tFrame_Set_Light1 = new EFC.Light.TFrame_Set_Light();
-            this.T_Set_Speed = new System.Windows.Forms.TextBox();
-            this.T_Set_Count = new System.Windows.Forms.TextBox();
-            this.label30 = new System.Windows.Forms.Label();
-            this.label31 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             this.panel1.SuspendLayout();
             this.tabControl1.SuspendLayout();
@@ -484,6 +485,16 @@
             this.tabPage3.Text = "Image_Life";
             this.tabPage3.UseVisualStyleBackColor = true;
             // 
+            // tFrame_Display1
+            // 
+            this.tFrame_Display1.BackColor = System.Drawing.Color.DimGray;
+            this.tFrame_Display1.Disp_Enabled = false;
+            this.tFrame_Display1.Location = new System.Drawing.Point(21, 83);
+            this.tFrame_Display1.Margin = new System.Windows.Forms.Padding(2);
+            this.tFrame_Display1.Name = "tFrame_Display1";
+            this.tFrame_Display1.Size = new System.Drawing.Size(214, 201);
+            this.tFrame_Display1.TabIndex = 31;
+            // 
             // toolStrip2
             // 
             this.toolStrip2.AutoSize = false;
@@ -622,6 +633,16 @@
             this.panel7.TabIndex = 2;
             this.panel7.VisibleChanged += new System.EventHandler(this.panel7_VisibleChanged);
             // 
+            // tFrame_Display2
+            // 
+            this.tFrame_Display2.BackColor = System.Drawing.Color.DimGray;
+            this.tFrame_Display2.Disp_Enabled = false;
+            this.tFrame_Display2.Location = new System.Drawing.Point(6, 14);
+            this.tFrame_Display2.Margin = new System.Windows.Forms.Padding(2);
+            this.tFrame_Display2.Name = "tFrame_Display2";
+            this.tFrame_Display2.Size = new System.Drawing.Size(214, 201);
+            this.tFrame_Display2.TabIndex = 0;
+            // 
             // panel5
             // 
             this.panel5.Controls.Add(this.panel9);
@@ -709,6 +730,16 @@
             this.panel27.Size = new System.Drawing.Size(1109, 611);
             this.panel27.TabIndex = 4;
             this.panel27.VisibleChanged += new System.EventHandler(this.panel27_VisibleChanged);
+            // 
+            // tFrame_Display3
+            // 
+            this.tFrame_Display3.BackColor = System.Drawing.Color.DimGray;
+            this.tFrame_Display3.Disp_Enabled = false;
+            this.tFrame_Display3.Location = new System.Drawing.Point(18, 14);
+            this.tFrame_Display3.Margin = new System.Windows.Forms.Padding(2);
+            this.tFrame_Display3.Name = "tFrame_Display3";
+            this.tFrame_Display3.Size = new System.Drawing.Size(214, 201);
+            this.tFrame_Display3.TabIndex = 0;
             // 
             // TP_Log
             // 
@@ -868,6 +899,7 @@
             // 
             // tabPage4
             // 
+            this.tabPage4.Controls.Add(this.button1);
             this.tabPage4.Controls.Add(this.GB_Load_Image);
             this.tabPage4.Location = new System.Drawing.Point(4, 28);
             this.tabPage4.Name = "tabPage4";
@@ -1118,6 +1150,47 @@
             this.panel10.Name = "panel10";
             this.panel10.Size = new System.Drawing.Size(295, 302);
             this.panel10.TabIndex = 29;
+            // 
+            // tFrame_Set_Light4
+            // 
+            this.tFrame_Set_Light4.Font = new System.Drawing.Font("新細明體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.tFrame_Set_Light4.Light_Value = 0;
+            this.tFrame_Set_Light4.Location = new System.Drawing.Point(26, 224);
+            this.tFrame_Set_Light4.Margin = new System.Windows.Forms.Padding(8, 4, 8, 4);
+            this.tFrame_Set_Light4.Name = "tFrame_Set_Light4";
+            this.tFrame_Set_Light4.Size = new System.Drawing.Size(260, 55);
+            this.tFrame_Set_Light4.TabIndex = 3;
+            // 
+            // tFrame_Set_Light3
+            // 
+            this.tFrame_Set_Light3.Font = new System.Drawing.Font("新細明體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.tFrame_Set_Light3.Light_Value = 0;
+            this.tFrame_Set_Light3.Location = new System.Drawing.Point(26, 154);
+            this.tFrame_Set_Light3.Margin = new System.Windows.Forms.Padding(8, 4, 8, 4);
+            this.tFrame_Set_Light3.Name = "tFrame_Set_Light3";
+            this.tFrame_Set_Light3.Size = new System.Drawing.Size(260, 55);
+            this.tFrame_Set_Light3.TabIndex = 2;
+            // 
+            // tFrame_Set_Light2
+            // 
+            this.tFrame_Set_Light2.Font = new System.Drawing.Font("新細明體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.tFrame_Set_Light2.Light_Value = 0;
+            this.tFrame_Set_Light2.Location = new System.Drawing.Point(26, 84);
+            this.tFrame_Set_Light2.Margin = new System.Windows.Forms.Padding(8, 4, 8, 4);
+            this.tFrame_Set_Light2.Name = "tFrame_Set_Light2";
+            this.tFrame_Set_Light2.Size = new System.Drawing.Size(260, 55);
+            this.tFrame_Set_Light2.TabIndex = 1;
+            // 
+            // tFrame_Set_Light1
+            // 
+            this.tFrame_Set_Light1.AutoSize = true;
+            this.tFrame_Set_Light1.Font = new System.Drawing.Font("新細明體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.tFrame_Set_Light1.Light_Value = 0;
+            this.tFrame_Set_Light1.Location = new System.Drawing.Point(26, 14);
+            this.tFrame_Set_Light1.Margin = new System.Windows.Forms.Padding(8, 4, 8, 4);
+            this.tFrame_Set_Light1.Name = "tFrame_Set_Light1";
+            this.tFrame_Set_Light1.Size = new System.Drawing.Size(260, 60);
+            this.tFrame_Set_Light1.TabIndex = 0;
             // 
             // TP_ACF
             // 
@@ -2115,16 +2188,6 @@
             this.tabPage11.UseVisualStyleBackColor = true;
             this.tabPage11.Click += new System.EventHandler(this.tabPage11_Click);
             // 
-            // Plasma_Setting
-            // 
-            this.Plasma_Setting.Location = new System.Drawing.Point(157, 121);
-            this.Plasma_Setting.Name = "Plasma_Setting";
-            this.Plasma_Setting.Size = new System.Drawing.Size(83, 33);
-            this.Plasma_Setting.TabIndex = 6;
-            this.Plasma_Setting.Text = "Set";
-            this.Plasma_Setting.UseVisualStyleBackColor = true;
-            this.Plasma_Setting.Click += new System.EventHandler(this.button1_Click_1);
-            // 
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.Plasma_Setting);
@@ -2142,6 +2205,52 @@
             this.groupBox1.TabIndex = 5;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "[ Plasma載台 ]";
+            // 
+            // Plasma_Setting
+            // 
+            this.Plasma_Setting.Location = new System.Drawing.Point(157, 121);
+            this.Plasma_Setting.Name = "Plasma_Setting";
+            this.Plasma_Setting.Size = new System.Drawing.Size(83, 33);
+            this.Plasma_Setting.TabIndex = 6;
+            this.Plasma_Setting.Text = "Set";
+            this.Plasma_Setting.UseVisualStyleBackColor = true;
+            this.Plasma_Setting.Click += new System.EventHandler(this.button1_Click_1);
+            // 
+            // label31
+            // 
+            this.label31.AutoSize = true;
+            this.label31.Location = new System.Drawing.Point(185, 91);
+            this.label31.Name = "label31";
+            this.label31.Size = new System.Drawing.Size(25, 19);
+            this.label31.TabIndex = 14;
+            this.label31.Text = "To";
+            // 
+            // label30
+            // 
+            this.label30.AutoSize = true;
+            this.label30.Location = new System.Drawing.Point(185, 28);
+            this.label30.Name = "label30";
+            this.label30.Size = new System.Drawing.Size(25, 19);
+            this.label30.TabIndex = 13;
+            this.label30.Text = "To";
+            // 
+            // T_Set_Count
+            // 
+            this.T_Set_Count.Location = new System.Drawing.Point(211, 88);
+            this.T_Set_Count.Name = "T_Set_Count";
+            this.T_Set_Count.Size = new System.Drawing.Size(76, 27);
+            this.T_Set_Count.TabIndex = 12;
+            this.T_Set_Count.Text = "123.456";
+            this.T_Set_Count.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            // 
+            // T_Set_Speed
+            // 
+            this.T_Set_Speed.Location = new System.Drawing.Point(211, 24);
+            this.T_Set_Speed.Name = "T_Set_Speed";
+            this.T_Set_Speed.Size = new System.Drawing.Size(76, 27);
+            this.T_Set_Speed.TabIndex = 11;
+            this.T_Set_Speed.Text = "123.456";
+            this.T_Set_Speed.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // ME_Plasma_Clean_Count
             // 
@@ -2543,112 +2652,14 @@
             this.B_Tool.UseVisualStyleBackColor = true;
             this.B_Tool.Click += new System.EventHandler(this.B_Tool_Click);
             // 
-            // tFrame_Display1
+            // button1
             // 
-            this.tFrame_Display1.BackColor = System.Drawing.Color.DimGray;
-            this.tFrame_Display1.Disp_Enabled = false;
-            this.tFrame_Display1.Location = new System.Drawing.Point(21, 83);
-            this.tFrame_Display1.Margin = new System.Windows.Forms.Padding(2);
-            this.tFrame_Display1.Name = "tFrame_Display1";
-            this.tFrame_Display1.Size = new System.Drawing.Size(214, 201);
-            this.tFrame_Display1.TabIndex = 31;
-            // 
-            // tFrame_Display2
-            // 
-            this.tFrame_Display2.BackColor = System.Drawing.Color.DimGray;
-            this.tFrame_Display2.Disp_Enabled = false;
-            this.tFrame_Display2.Location = new System.Drawing.Point(6, 14);
-            this.tFrame_Display2.Margin = new System.Windows.Forms.Padding(2);
-            this.tFrame_Display2.Name = "tFrame_Display2";
-            this.tFrame_Display2.Size = new System.Drawing.Size(214, 201);
-            this.tFrame_Display2.TabIndex = 0;
-            // 
-            // tFrame_Display3
-            // 
-            this.tFrame_Display3.BackColor = System.Drawing.Color.DimGray;
-            this.tFrame_Display3.Disp_Enabled = false;
-            this.tFrame_Display3.Location = new System.Drawing.Point(18, 14);
-            this.tFrame_Display3.Margin = new System.Windows.Forms.Padding(2);
-            this.tFrame_Display3.Name = "tFrame_Display3";
-            this.tFrame_Display3.Size = new System.Drawing.Size(214, 201);
-            this.tFrame_Display3.TabIndex = 0;
-            // 
-            // tFrame_Set_Light4
-            // 
-            this.tFrame_Set_Light4.Font = new System.Drawing.Font("新細明體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.tFrame_Set_Light4.Light_Value = 0;
-            this.tFrame_Set_Light4.Location = new System.Drawing.Point(26, 224);
-            this.tFrame_Set_Light4.Margin = new System.Windows.Forms.Padding(8, 4, 8, 4);
-            this.tFrame_Set_Light4.Name = "tFrame_Set_Light4";
-            this.tFrame_Set_Light4.Size = new System.Drawing.Size(260, 55);
-            this.tFrame_Set_Light4.TabIndex = 3;
-            // 
-            // tFrame_Set_Light3
-            // 
-            this.tFrame_Set_Light3.Font = new System.Drawing.Font("新細明體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.tFrame_Set_Light3.Light_Value = 0;
-            this.tFrame_Set_Light3.Location = new System.Drawing.Point(26, 154);
-            this.tFrame_Set_Light3.Margin = new System.Windows.Forms.Padding(8, 4, 8, 4);
-            this.tFrame_Set_Light3.Name = "tFrame_Set_Light3";
-            this.tFrame_Set_Light3.Size = new System.Drawing.Size(260, 55);
-            this.tFrame_Set_Light3.TabIndex = 2;
-            // 
-            // tFrame_Set_Light2
-            // 
-            this.tFrame_Set_Light2.Font = new System.Drawing.Font("新細明體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.tFrame_Set_Light2.Light_Value = 0;
-            this.tFrame_Set_Light2.Location = new System.Drawing.Point(26, 84);
-            this.tFrame_Set_Light2.Margin = new System.Windows.Forms.Padding(8, 4, 8, 4);
-            this.tFrame_Set_Light2.Name = "tFrame_Set_Light2";
-            this.tFrame_Set_Light2.Size = new System.Drawing.Size(260, 55);
-            this.tFrame_Set_Light2.TabIndex = 1;
-            // 
-            // tFrame_Set_Light1
-            // 
-            this.tFrame_Set_Light1.AutoSize = true;
-            this.tFrame_Set_Light1.Font = new System.Drawing.Font("新細明體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.tFrame_Set_Light1.Light_Value = 0;
-            this.tFrame_Set_Light1.Location = new System.Drawing.Point(26, 14);
-            this.tFrame_Set_Light1.Margin = new System.Windows.Forms.Padding(8, 4, 8, 4);
-            this.tFrame_Set_Light1.Name = "tFrame_Set_Light1";
-            this.tFrame_Set_Light1.Size = new System.Drawing.Size(260, 60);
-            this.tFrame_Set_Light1.TabIndex = 0;
-            // 
-            // T_Set_Speed
-            // 
-            this.T_Set_Speed.Location = new System.Drawing.Point(211, 24);
-            this.T_Set_Speed.Name = "T_Set_Speed";
-            this.T_Set_Speed.Size = new System.Drawing.Size(76, 27);
-            this.T_Set_Speed.TabIndex = 11;
-            this.T_Set_Speed.Text = "123.456";
-            this.T_Set_Speed.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            // 
-            // T_Set_Count
-            // 
-            this.T_Set_Count.Location = new System.Drawing.Point(211, 88);
-            this.T_Set_Count.Name = "T_Set_Count";
-            this.T_Set_Count.Size = new System.Drawing.Size(76, 27);
-            this.T_Set_Count.TabIndex = 12;
-            this.T_Set_Count.Text = "123.456";
-            this.T_Set_Count.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            // 
-            // label30
-            // 
-            this.label30.AutoSize = true;
-            this.label30.Location = new System.Drawing.Point(185, 28);
-            this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(25, 19);
-            this.label30.TabIndex = 13;
-            this.label30.Text = "To";
-            // 
-            // label31
-            // 
-            this.label31.AutoSize = true;
-            this.label31.Location = new System.Drawing.Point(185, 91);
-            this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(25, 19);
-            this.label31.TabIndex = 14;
-            this.label31.Text = "To";
+            this.button1.Location = new System.Drawing.Point(95, 270);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(136, 82);
+            this.button1.TabIndex = 32;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
             // 
             // TForm_Main
             // 
@@ -2957,6 +2968,7 @@
           private System.Windows.Forms.Label label30;
           private System.Windows.Forms.TextBox T_Set_Count;
           private System.Windows.Forms.TextBox T_Set_Speed;
+          private System.Windows.Forms.Button button1;
      }
 }
 

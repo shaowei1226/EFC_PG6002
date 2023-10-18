@@ -809,3 +809,10 @@ D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-10-12)\CShape_Lib\S
 D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-10-12)\CShape_Lib\Source_Code\Reader\obj\Debug\Reader.csprojResolveAssemblyReference.cache
 D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-10-12)\CShape_Lib\Source_Code\Reader\obj\Debug\Reader.dll
 D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002(2023-10-12)\CShape_Lib\Source_Code\Reader\obj\Debug\Reader.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\Reader\bin\Debug\Reader.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\Reader\bin\Debug\Reader.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\Reader\bin\Debug\Tool.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\Reader\bin\Debug\Tool.pdb
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\Reader\obj\Debug\Reader.csprojResolveAssemblyReference.cache
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\Reader\obj\Debug\Reader.dll
+D:\Users\shaowei.zheng\Desktop\程式整理\PGxx\PG6002\CShape_Lib\Source_Code\Reader\obj\Debug\Reader.pdb
